@@ -1,0 +1,2 @@
+# Forecast-of-International-Demand-for-Moroccan-Local-Products
+This project aims to forecast the demand for Moroccan local products mainly in international markets and to develop effective strategies for their development and commercialization. Data will be collected from official websites and undergo a thorough cleaning phase to identify relevant products and key characteristics for strategy formulation.
