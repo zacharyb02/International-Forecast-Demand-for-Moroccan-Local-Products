@@ -84,5 +84,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For any questions or suggestions, please contact us at [zikoamouch@gmail.com].
+For any questions or suggestions, please contact us at [zakariabaou2002@gmail.com] or [nour.nouramellouk@gmail.com].
 
