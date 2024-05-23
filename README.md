@@ -61,7 +61,11 @@ The project is organized into the following directories:
     ```bash
     cd <project-directory>
     ```
-3. **Run the notebooks**:
+3. **Install required dependencies**:
+    ```bash
+    pip install -r requirements.txt
+    ```
+4. **Run the notebooks**:
     Open Jupyter Lab or Notebook and run the notebooks in the `Notebooks` directory to reproduce the analysis and results.
 
 ## Contributing
