@@ -1,0 +1,11 @@
+pandas
+matplotlib
+numpy
+scikit-learn
+joblib
+itertools
+plotly
+math
+xgboost
+tensorflow
+keras
