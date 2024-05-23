@@ -1,0 +1,821 @@
+﻿Code	Product label	Exported value in 2018-Q3	Exported value in 2018-Q4	Exported value in 2019-Q1	Exported value in 2019-Q2	Exported value in 2019-Q3	Exported value in 2019-Q4	Exported value in 2020-Q1	Exported value in 2020-Q2	Exported value in 2020-Q3	Exported value in 2020-Q4	Exported value in 2021-Q1	Exported value in 2021-Q2	Exported value in 2021-Q3	Exported value in 2021-Q4	Exported value in 2022-Q1	Exported value in 2022-Q2	Exported value in 2022-Q3	Exported value in 2022-Q4	Exported value in 2023-Q1	Exported value in 2023-Q2	
+TOTAL	"All products"	6423747	7443743	7988937	7511756	6575644	7512349	7141272	5515545	7026584	8124684	8654136	8413355	8763670	10688955	10692865	11667147	9857335	10051398	10727787	10878056	
+	"Agricultural products"	735852	1353440	1776573	1212284	819196	1478513	1786948	1147550	819078	1585716	1917318	1401649	926438	1778845	2120093	1935508	1011122	1644487	2037322	1765575	
+070200	"Tomatoes, fresh or chilled"	63157	258353	296730	112798	81377	294016	305051	89359	95589	280345	311841	108262	120211	311750	360204	221515	125050	325016	419583	241330	
+081040	"Fresh cranberries, bilberries and other fruits of the genus Vaccinium"	286	2483	112899	61394	82	7927	146846	48450	204	10248	209149	90995	157	4070	130586	162386	1402	7405	134928	174818	
+080711	"Fresh watermelons"	1985	42	12235	84955	1877	42	18846	128237	6198	40	30365	169669	10441	65	1424	185973	18697	59	582	161149	
+160413	"Prepared or preserved sardines, sardinella and brisling or sprats, whole or in pieces (excl. ..."	129493	163186	117193	107101	116821	159379	110707	117094	128444	172766	87387	86449	99324	184388	101187	127447	144540	159281	107366	119912	
+081020	"Fresh raspberries, blackberries, mulberries and loganberries"	9062	57535	111040	49564	12262	72727	99273	30193	18767	80548	129159	65912	6135	93093	136695	88787	6374	106728	141042	112953	
+170199	"Cane or beet sugar and chemically pure sucrose, in solid form (excl. cane and beet sugar containing ..."	38308	41290	44950	56633	41972	57592	61728	79945	69394	74676	49196	93184	87408	93969	110084	109266	111902	101234	103941	98097	
+070820	"Fresh or chilled beans "Vigna spp., Phaseolus spp.", shelled or unshelled"	18719	52712	84773	68567	34209	85602	78096	61087	26395	73508	95078	58145	23507	65489	86498	73934	18587	64988	81999	87089	
+070960	"Fresh or chilled fruits of the genus Capsicum or Pimenta"	10660	36768	52021	35987	10641	39474	48367	33940	15213	45463	74927	37972	12601	41009	66156	60342	20257	40879	83357	74922	
+080719	"Fresh melons (excl. watermelons)"	1175	401	29700	28857	740	415	29240	27820	1829	269	29844	39303	3019	365	3784	62371	1815	387	9601	66212	
+150420	"Fats and oils of fish and their fractions, whether or not refined (excl. liver oils and chemically ..."	16273	27211	13621	6068	19295	24411	30527	13746	13459	29762	12078	8414	17011	27347	27689	15436	39738	73487	43224	46387	
+230120	"Flours, meals and pellets of fish or crustaceans, molluscs or other aquatic invertebrates, ..."	25149	45357	34432	41605	51571	43401	48616	39675	42941	55633	29960	37427	45697	67393	45774	50271	76686	84649	46916	45539	
+081110	"Frozen strawberries, uncooked or cooked by steaming or boiling in water, whether or not sweetened"	2668	1319	41238	50170	2854	1727	54031	43175	3655	1225	38670	58273	3690	1032	26565	67942	4243	4029	12408	43366	
+200570	"Olives, prepared or preserved otherwise than by vinegar or acetic acid (excl. frozen)"	37746	36991	41524	43966	38794	33660	37461	31685	37866	33142	37566	43071	37293	36536	41667	42556	34020	30219	32521	40181	
+160420	"Prepared or preserved fish (excl. whole or in pieces)"	29984	32671	30938	32599	29124	32080	31166	27718	32612	43550	36904	34560	30807	40652	21748	37141	32370	31729	29834	35238	
+050400	"Guts, bladders and stomachs of animals (other than fish), whole and pieces thereof, fresh, ..."	14648	15362	22975	20716	21220	19516	21226	24990	20752	25603	24460	18128	20191	16916	13306	14348	14065	13371	19148	22345	
+210690	"Food preparations, n.e.s."	23377	23754	22204	19582	21586	22606	14953	7621	9553	14598	12341	13491	17326	17600	16207	16460	18791	20937	22205	22157	
+160416	"Prepared or preserved anchovies, whole or in pieces (excl. minced)"	14716	12204	12374	12084	11915	12698	9775	9955	12963	12974	8957	15360	14839	13885	11598	18237	14675	13358	15338	20189	
+240220	"Cigarettes, containing tobacco"	916	968	839	624	929	531	3705	43	1336	3206	1571	220	5015	6805	3032	8102	8551	11959	7111	16759	
+160415	"Prepared or preserved mackerel, whole or in pieces (excl. minced)"	14416	17271	15038	15947	14347	15032	12713	13772	13325	19030	16368	15299	15932	17953	13821	16878	14981	14761	11689	14464	
+121190	"Plants, parts of plants, incl. seeds and fruits, used primarily in perfumery, in pharmacy or ..."	12791	18188	17871	10270	16589	19194	16542	9310	13469	15485	18058	17045	15324	17564	18342	14993	15037	16739	16998	13478	
+190240	"Couscous, whether or not prepared"	4904	8637	6661	7671	6227	8357	8732	10722	9702	12369	13352	13700	9035	15213	15019	12874	7333	12480	14813	12456	
+070999	"Fresh or chilled vegetables n.e.s."	3674	9612	9603	9265	4745	15715	8286	12937	2230	11450	9109	14796	1768	10743	8518	13617	1551	11609	8953	11662	
+051191	"Products of fish or crustaceans, molluscs or other aquatic invertebrates; dead fish, crustaceans, ..."	712	664	758	1285	1084	721	1226	723	371	821	549	381	273	753	713	6987	8787	2760	1831	11149	
+160529	"Shrimps and prawns, prepared or preserved, in airtight containers (excl. smoked)"	404	38	296	493	876	1277	1640	2125	4016	3489	3939	5877	5927	7252	4894	9702	10260	12476	10365	11023	
+160521	"Shrimps and prawns, prepared or preserved, not in airtight containers (excl. smoked)"	17336	14566	15510	22044	21643	16769	15803	5629	12350	20044	14994	14155	16056	18407	8187	9335	10977	11368	6655	9747	
+071190	"Vegetables and mixtures of vegetables provisionally preserved, e.g. by sulphur dioxide gas, ..."	8262	9343	7776	7986	7778	8394	6917	5166	7924	7815	8430	9222	10054	9978	8473	9822	7743	8611	9528	8516	
+130231	"Agar-agar, whether or not modified"	9446	7032	7565	7825	5606	8230	7470	6138	5711	7964	5608	7125	5018	6036	5518	6027	4969	6488	6836	8302	
+081120	"Frozen raspberries, blackberries, mulberries, loganberries, black-, white- or red currants ..."	54	218	233	184	206	1547	921	1436	505	1777	2277	7578	1087	11653	16265	33720	4711	5459	5035	7913	
+081190	"Frozen fruit and nuts, uncooked or cooked by steaming or boiling in water, whether or not sweetened ..."	5370	2408	2848	7139	5665	1973	2425	6906	5416	2487	3445	8010	10152	2931	3386	17309	11264	2873	2716	7163	
+070993	"Fresh or chilled pumpkins, squash and gourds "Cucurbita spp.""	272	8000	22630	2393	348	17521	17135	3370	784	11159	21006	2287	469	14298	27418	5599	524	14377	23842	7123	
+151590	"Fixed vegetable fats and oils and their fractions, whether or not refined, but not chemically ..."	5953	5927	7669	8311	7707	9285	8618	6687	8561	9950	9822	10197	8562	11086	14283	16660	4852	6047	10682	7037	
+150920	"Extra virgin olive oil "EU cat. 1" obtained from the fruit of the olive tree solely by mechanical ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5139	7899	5022	2405	2533	6175	
+190219	"Uncooked pasta, not stuffed or otherwise prepared, not containing eggs"	1413	2302	1425	1956	2136	2529	2428	1903	1640	1515	2320	2181	2281	3391	2746	4385	3976	3661	6756	6163	
+330129	"Essential oils, whether or not terpeneless, incl. concretes and absolutes (excl. those of citrus ..."	8362	6372	6842	7523	7823	4326	3690	6253	5364	5879	4847	7171	6769	6136	4721	6400	4545	4216	5527	6001	
+090230	"Black fermented tea and partly fermented tea, whether or not flavoured, in immediate packings ..."	4013	5499	5536	4489	4039	6204	4044	2742	4112	4605	3701	3675	5422	5706	5153	4318	5159	6272	5968	5575	
+080610	"Fresh grapes"	788	200	33	5940	786	275	97	5639	1013	271	131	6009	2383	738	72	5920	2293	804	41	5232	
+070420	"Brussels sprouts, fresh or chilled"	0	0	2488	2471	0	0	1935	2260	174	1	2716	3397	562	143	2051	4498	695	587	1817	5134	
+170490	"Sugar confectionery not containing cocoa, incl. white chocolate (excl. chewing gum)"	3991	4382	5125	4704	4032	5573	4488	1905	3753	4450	4931	3825	4878	6954	5027	4733	3881	5143	5302	5007	
+151219	"Sunflower-seed or safflower oil and their fractions, whether or not refined, but not chemically ..."	6925	10211	1397	4744	6192	9991	9252	6332	4303	5640	4104	817	3238	2159	4593	170	1499	830	2763	4855	
+040719	"Fertilised birds' eggs for incubation (excl. of domestic fowls)"	1859	2297	2707	2499	2364	2369	2732	3260	6037	5083	6178	6480	5722	6531	8283	7884	6173	6482	7001	4853	
+150940	"Virgin olive oil "EU cat. 3" obtained from the fruit of the olive tree solely by mechanical ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7790	6871	893	1432	1548	4693	
+080510	"Fresh or dried oranges"	10130	11874	25556	31936	24271	6898	21040	46977	10920	8478	15513	26761	14152	11350	29841	32538	18439	7451	9016	4662	
+080521	"Fresh or dried mandarins incl. tangerines and satsumas (excl. clementines)"	5	12728	140199	4132	102	16807	178277	3098	6	24098	179058	7958	0	16490	246395	35433	36	21990	215852	4625	
+010649	"Live insects (excl. bees)"	2490	1635	3171	2601	3672	1994	4089	4036	3134	2092	3715	5344	3504	1736	3737	4325	2842	1397	3532	4411	
+240419	"Products containing tobacco or nicotine substitutes, intended for inhalation without combustion ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2304	3354	3502	3357	2454	4259	
+130219	"Vegetable saps and extracts (excl. liquorice, hops, opium and ephedra)"	6239	6896	9958	8374	5076	7012	10804	9800	7484	14040	13115	5214	4750	4366	5461	5913	4733	3030	5027	3966	
+200190	"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar ..."	4241	4706	4085	3406	3560	3235	3231	3082	2906	4406	2158	2309	2685	4009	3227	3711	3835	4279	4766	3718	
+080930	"Fresh peaches, incl. nectarines"	455	170	1020	3743	178	29	1164	3227	401	22	683	4951	2953	31	286	3670	2033	54	5	3608	
+090210	"Green tea in immediate packings of <= 3 kg"	3441	4957	4292	3989	3011	3400	3193	1565	2888	3639	2195	3222	4063	3701	3636	3296	3262	3807	4507	3607	
+150790	"Soya-bean oil and its fractions, whether or not refined (excl. chemically modified and crude)"	1744	2027	2115	1892	1537	1171	5563	13218	3900	5267	4451	9848	14330	17166	12561	35830	14748	6016	5891	3535	
+220299	"Non-alcoholic beverages (excl. water, fruit or vegetable juices, milk and beer)"	2220	2698	2912	2325	2364	3023	2660	1842	2406	2753	5024	3806	3252	3410	3865	4004	3547	4091	4637	3519	
+210111	"Extracts, essences and concentrates, of coffee"	6650	9070	6635	5666	7695	7482	7760	7897	7967	8011	7662	7661	7238	5121	4338	9577	8693	6065	5675	3431	
+200850	"Apricots, prepared or preserved, whether or not containing added sugar or other sweetening ..."	3429	2832	2167	1305	2831	2462	975	754	3101	1473	1994	3202	4618	2615	1488	1812	4513	3471	2948	2997	
+070610	"Fresh or chilled carrots and turnips"	834	610	377	484	783	611	1047	1142	1975	1140	1036	1986	2956	2120	1415	1788	2881	3777	2873	2966	
+040630	"Processed cheese, not grated or powdered"	13767	11734	14104	15738	12705	7955	7545	11753	4300	4717	7602	1821	4087	6682	5080	4261	3252	1741	3379	2895	
+130232	"Mucilages and thickeners, derived from locust beans, locust bean seeds or guar seeds, whether ..."	216	193	30	201	0	172	0	0	0	132	2446	3373	5709	7814	9324	11194	3888	4294	4683	2732	
+121229	"Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, unfit for ..."	1992	1714	1938	5075	2338	1070	887	1562	2083	833	1678	1715	1074	897	1343	1061	1829	1233	1477	2645	
+060312	"Fresh cut carnations and buds, of a kind suitable for bouquets or for ornamental purposes"	1468	1612	2270	2048	1622	1427	1525	1977	1590	1879	1399	2773	1920	1412	3106	2502	1917	1257	1164	2605	
+200210	"Tomatoes, whole or in pieces, prepared or preserved otherwise than by vinegar or acetic acid"	2744	1802	2407	3141	2044	2738	2110	1101	1409	1545	1755	3962	3142	2784	2869	3889	2128	2063	2393	2604	
+070310	"Fresh or chilled onions and shallots"	3421	5482	2380	1480	3400	3144	2065	803	7259	5772	4677	1922	7911	5648	5677	2004	7924	5853	4481	2578	
+121292	"Locust beans "carob", fresh, chilled, frozen or dried, whether or not ground"	2027	19634	24280	17784	22365	34370	35180	22992	28109	23106	26298	56182	54298	102410	101284	58394	879	7942	10300	2549	
+060290	"Live plants, incl. their roots, and mushroom spawn (excl. bulbs, tubers, tuberous roots, corms, ..."	146	132	793	1380	209	287	1107	1702	1435	516	716	1933	919	1077	1549	1984	516	595	1137	2538	
+240210	"Cigars, cheroots and cigarillos containing tobacco"	15108	14671	15081	15138	17750	18522	7071	134	1313	3596	1616	767	5425	3788	2831	5209	6778	6003	8245	2449	
+190590	"Bread, pastry, cakes, biscuits and other bakers' wares, whether or not containing cocoa; communion ..."	1612	1755	1794	1552	1538	1783	1701	951	829	1190	3307	3070	2280	2073	1730	2207	2803	3038	3141	2427	
+060220	"Edible fruit or nut trees, shrubs and bushes, whether or not grafted"	3841	1875	5210	3243	4586	3042	3275	1354	3605	2875	1968	1161	3533	2820	1808	2732	3089	2921	2683	2368	
+090921	"Coriander seeds, neither crushed nor ground"	1477	2410	2265	1411	1860	3923	3345	2053	2207	3238	2821	3456	4191	4718	3023	2999	4209	3874	3092	2361	
+090422	"Fruits of the genus Capsicum or of the genus Pimenta, crushed or ground"	147	1914	2000	437	223	957	2081	947	305	1227	2202	944	875	2344	3567	5	3	1309	4176	2348	
+070700	"Cucumbers and gherkins, fresh or chilled"	226	2194	1884	256	150	3031	1972	209	230	3141	5027	438	298	3540	9079	1649	1648	5681	11262	2336	
+200599	"Vegetables and mixtures of vegetables, prepared or preserved otherwise than by vinegar, non-frozen ..."	1174	1111	1724	1856	1618	1170	1615	1248	1449	1462	1935	1801	1524	2308	1921	1952	1789	2366	2175	2242	
+040891	"Dried birds' eggs, not in shell, whether or not sweetened (excl. egg yolks)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	86	1238	939	1755	2073	2060	
+240399	"Chewing tobacco, snuff and other manufactured tobacco and manufactured tobacco substitutes, ..."	0	0	0	0	0	0	0	0	1	66	68	333	410	1875	82	351	395	454	1374	2051	
+330190	"Extracted oleoresins; concentrates of essential oils in fats, fixed oils, waxes and the like, ..."	1367	1270	1175	1954	1036	1511	506	2412	1186	2514	1351	2733	1890	1652	1384	1760	1334	2036	1272	2024	
+190230	"Pasta, cooked or otherwise prepared (excl. stuffed)"	787	1243	1439	1401	1111	1087	1620	2325	1205	1820	2152	1286	1885	1889	2934	3645	3852	3225	2590	2017	
+070410	"Fresh or chilled cauliflowers and broccoli"	6	24	136	95	74	778	661	500	111	1227	2907	1518	279	1394	2240	1708	10	663	3741	1947	
+081010	"Fresh strawberries"	0	18054	48233	476	2	19798	36105	299	30	26929	55707	1447	37	20340	52373	4234	204	14666	50387	1945	
+070490	"Fresh or chilled cabbages, kohlrabi, kale and similar edible brassicas (excl. cauliflowers, ..."	618	1034	400	607	775	1123	697	715	1279	965	133	410	1186	1593	526	971	1518	1650	1012	1894	
+240319	"Smoking tobacco, whether or not containing tobacco substitutes in any proportion (excl. water-pipe ..."	0	0	0	1	1	2	259	0	149	184	112	10	238	477	146	1162	1156	1842	1026	1797	
+220429	"Wine of fresh grapes, incl. fortified wines, and grape must whose fermentation has been arrested ..."	962	285	1992	1383	1227	236	1868	250	988	673	1734	347	77	25	1626	257	226	279	1678	1692	
+190531	"Sweet biscuits"	913	950	930	1184	885	1670	981	675	1186	1671	1225	1112	1070	1667	1622	2035	1951	2141	1838	1613	
+230990	"Preparations of a kind used in animal feeding (excl. dog or cat food put up for retail sale)"	851	515	367	361	444	371	401	676	7739	2931	909	800	838	796	934	1159	1092	1892	1480	1597	
+071080	"Vegetables, uncooked or cooked by steaming or by boiling in water, frozen (excl. potatoes, ..."	174	171	21	206	123	156	33	165	383	132	66	602	402	413	177	87	99	13	106	1490	
+071029	"Leguminous vegetables, shelled or unshelled, uncooked or cooked by steaming or by boiling in ..."	0	10	0	0	0	203	334	0	0	112	0	0	0	0	0	0	44	128	81	1468	
+170410	"Chewing gum, whether or not sugar-coated"	341	752	665	582	391	363	314	269	627	626	710	617	597	488	530	666	626	928	1176	1341	
+091099	"Spices (excl. pepper of the genus Piper, fruit of the genus Capsicum or of the genus Pimenta, ..."	1589	1617	1751	1677	1745	1987	1646	1420	1921	2229	2550	1290	2521	2629	3442	1989	2011	1810	1653	1329	
+210210	"Active yeasts"	1723	2040	2137	1839	2294	1774	2217	2169	2203	2191	2564	1854	1717	1354	1791	2045	1689	1371	1339	1287	
+200819	"Nuts and other seeds, incl. mixtures, prepared or preserved (excl. prepared or preserved with ..."	933	1831	1569	935	1234	1529	1177	1475	1584	1413	1727	1055	522	1422	1171	540	897	740	1134	1192	
+040150	"Milk and cream of a fat content by weight of > 10%, not concentrated nor containing added sugar ..."	0	53	67	88	72	103	217	91	205	217	359	448	466	854	798	940	850	864	1227	1177	
+160414	"Prepared or preserved tunas, skipjack and Atlantic bonito, whole or in pieces (excl. minced)"	675	413	566	473	331	366	449	445	566	810	927	686	409	870	710	783	289	915	788	1175	
+070390	"Leeks and other alliaceous vegetables, fresh or chilled (excl. onions, shallots and garlic)"	1347	2028	1748	1314	1694	2435	1853	1187	1090	1678	2529	1493	995	2492	2624	1209	934	1727	1825	1162	
+200912	"Orange juice, unfermented, Brix value <= 20 at 20°C, whether or not containing added sugar ..."	1994	565	995	2713	3024	770	638	2132	553	82	190	2215	1031	759	358	1983	1583	813	468	1130	
+200919	"Orange juice, unfermented, whether or not containing added sugar or other sweetening matter ..."	358	661	553	418	198	509	304	229	125	280	534	1023	196	239	381	605	826	966	781	1055	
+151800	"Animal or vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, ..."	810	467	762	567	868	1016	1194	250	1134	1058	1222	1378	2392	2190	3193	3004	3752	2275	2112	1052	
+220421	"Wine of fresh grapes, incl. fortified wines, and grape must whose fermentation has been arrested ..."	1416	2027	1663	1654	1720	1999	774	400	584	508	234	549	483	517	522	848	702	806	928	1047	
+070930	"Fresh or chilled aubergines "eggplants""	295	468	233	114	166	456	310	419	383	405	704	355	468	757	629	456	323	891	594	1042	
+150930	"Virgin olive oil "EU cat. 2" obtained from the fruit of the olive tree solely by mechanical ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3553	2504	1681	1049	1450	991	
+180690	"Chocolate and other preparations containing cocoa, in containers or immediate packings of <= ..."	366	385	602	678	301	573	455	461	386	803	611	216	560	573	430	518	1137	1316	1653	954	
+200897	"Mixtures of fruits, nuts and other edible parts of plants, prepared or preserved, whether or ..."	391	802	631	519	637	590	525	319	336	471	352	783	902	576	626	707	671	454	598	807	
+220830	"Whiskies"	15	11	3	7	9	13	263	0	84	192	107	15	294	441	129	619	679	896	461	778	
+240311	"Water-pipe tobacco (excl. tobacco-free. See subheading note 1.)"	0	0	0	0	0	0	0	0	0	0	0	0	0	61	249	337	750	596	668	776	
+051199	"Products of animal origin, n.e.s., dead animals, unfit for human consumption (excl. fish, crustaceans, ..."	219	218	541	386	532	429	569	588	570	639	560	52	421	396	221	482	472	409	561	757	
+090121	"Roasted coffee (excl. decaffeinated)"	200	429	537	425	347	628	643	910	1028	388	749	863	968	687	618	956	376	250	555	736	
+060319	"Fresh cut flowers and buds, of a kind suitable for bouquets or for ornamental purposes (excl. ..."	130	38	116	188	113	59	73	914	0	0	0	592	0	0	0	316	0	0	0	724	
+110311	"Groats and meal of wheat"	0	142	184	119	33	166	267	389	171	670	1144	635	140	1649	1685	479	268	627	1121	710	
+150990	"Olive oil "EU cat. 4 and 5" and fractions obtained from the fruit of the olive tree solely ..."	2075	4370	2906	714	3420	869	208	12	157	607	1995	1086	202	145	2058	3902	24	402	826	687	
+220110	"Mineral waters and aerated waters, not containing added sugar, other sweetening matter or flavoured"	32	32	34	27	91	127	82	5	10	51	38	12	229	246	132	389	571	499	593	643	
+170310	"Cane molasses resulting from the extraction or refining of sugar"	1350	369	282	406	1514	669	0	2259	370	1433	313	1500	1529	0	0	0	0	760	801	632	
+200490	"Vegetables and mixtures of vegetables, prepared or preserved otherwise than by vinegar or acetic ..."	78	40	36	53	103	70	13	75	52	121	1681	1805	1458	342	50	10	82	175	196	622	
+210112	"Preparations with a basis of extracts, essences or concentrates of coffee or with a basis of ..."	0	0	0	0	0	0	0	0	0	37	40	7	252	311	160	331	588	674	755	605	
+070920	"Fresh or chilled asparagus"	0	11	16	0	0	29	81	0	0	9	610	8	0	0	528	239	0	2	501	594	
+070690	"Fresh or chilled salad beetroot, salsify, celeriac, radishes and similar edible roots (excl. ..."	584	2141	1954	515	587	2397	1985	688	723	1854	2215	599	538	2167	2476	768	436	1296	2054	581	
+080410	"Fresh or dried dates"	46	4	720	654	128	331	1269	3597	873	483	1276	1544	116	67	809	289	50	557	1767	555	
+220210	"Waters, incl. mineral and aerated, with added sugar, sweetener or flavour, for direct consumption ..."	615	550	921	1250	624	511	570	957	731	590	840	657	528	399	520	835	762	906	841	550	
+190410	"Prepared foods obtained by swelling or roasting cereals or cereal products, e.g. corn flakes"	0	78	75	54	89	100	56	12	119	86	103	161	206	140	129	219	106	289	370	501	
+330119	"Essential oils of citrus fruit, whether or not terpeneless, incl. concretes and absolutes (excl. ..."	3653	50	18	2625	2317	9	134	1187	1806	202	88	436	1286	162	303	898	768	444	72	495	
+060120	"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, in growth or in flower; chicory ..."	416	380	884	189	472	675	729	109	0	9	593	454	1	0	609	500	1	0	648	471	
+220300	"Beer made from malt"	614	950	841	1363	1174	934	1113	1360	946	1465	1647	766	1184	1151	772	28	725	696	852	467	
+080550	"Fresh or dried lemons "Citrus limon, Citrus limonum" and limes "Citrus aurantifolia, Citrus ..."	177	1579	5834	666	557	1705	6153	2071	921	1280	4209	74	794	1212	2215	465	809	1289	1700	466	
+070529	"Fresh or chilled chicory (excl. witloof chicory)"	0	136	1129	432	0	218	1357	360	0	264	1038	334	0	328	920	482	0	0	248	454	
+200899	"Fruit and other edible parts of plants, prepared or preserved, whether or not containing added ..."	643	449	499	510	614	450	349	161	264	271	251	272	244	336	341	398	380	342	481	437	
+040320	"Yogurt, whether or not flavoured or containing added sugar or other sweetening matter, fruit, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	362	481	443	355	373	426	
+240290	"Cigars, cheroots, cigarillos and cigarettes consisting wholly of tobacco substitutes"	183	239	270	290	230	236	88	0	0	44	0	0	1	63	49	129	144	191	242	424	
+081290	"Fruit and nuts, provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur ..."	33	19	45	70	33	66	68	32	30	70	86	55	39	40	42	79	539	12	39	397	
+050800	"Coral and similar materials, shells of molluscs, crustaceans or echinoderms, cuttle-bone, powder ..."	296	190	66	34	133	139	20	2	12	11	181	39	27	123	88	49	186	313	303	383	
+200939	"Single citrus fruit juice, unfermented, Brix value > 20 at 20°C, whether or not containing ..."	21	9	11	146	379	185	63	149	8	10	48	43	4	14	340	324	108	351	201	373	
+060210	"Unrooted cuttings and slips"	149	220	443	610	214	201	274	486	157	92	267	1008	145	122	185	405	215	339	384	372	
+151790	"Edible mixtures or preparations of animal or vegetable fats or oils and edible fractions of ..."	3561	1091	2736	0	0	1	0	1	534	73	6636	6276	2254	2175	0	2002	50	0	0	342	
+200830	"Citrus fruit, prepared or preserved, whether or not containing added sugar or other sweetening ..."	157	123	355	338	257	238	335	189	218	340	317	207	182	196	312	266	235	291	373	340	
+210410	"Soups and broths and preparations therefor"	170	701	875	1055	410	647	1256	1538	1227	890	2573	1354	544	917	1670	763	160	858	1117	280	
+200799	"Jams, jellies, marmalades, purées or pastes of fruit, obtained by cooking, whether or not containing ..."	76	229	132	88	77	105	91	143	114	172	111	119	82	148	210	150	199	542	164	275	
+020727	"Frozen cuts and edible offal of turkeys of the species domesticus"	115	222	67	166	113	163	117	185	208	82	83	421	240	233	116	288	192	86	182	258	
+070810	"Fresh or chilled peas "Pisum sativum", shelled or unshelled"	1	139	1383	161	1	563	1291	146	15	208	799	288	1	234	653	270	0	118	541	246	
+110812	"Maize starch"	132	86	64	57	152	109	155	179	177	143	273	210	253	84	87	157	260	312	130	215	
+090922	"Coriander seeds, crushed or ground"	54	1	21	62	114	58	171	141	216	35	115	73	247	109	109	346	190	65	102	207	
+220890	"Ethyl alcohol of an alcoholic strength of < 80% vol, not denatured; spirits and other spirituous ..."	475	287	221	524	637	373	184	1	11	18	1	3	152	198	151	167	185	186	186	195	
+210330	"Mustard flour and meal, whether or not prepared, and mustard"	46	79	55	68	57	63	49	56	26	36	73	74	50	48	3	26	33	34	171	194	
+040711	"Fertilised eggs for incubation, of domestic fowls"	0	0	0	0	0	0	0	0	0	0	0	0	161	0	0	23	11	72	0	186	
+210390	"Preparations for sauces and prepared sauces; mixed condiments and seasonings (excl. soya sauce, ..."	8	20	105	137	141	34	82	100	193	188	132	135	139	52	151	111	52	95	70	186	
+200990	"Mixtures of fruit juices, incl. grape must, and vegetable juices, unfermented, whether or not ..."	31	57	57	56	52	39	43	34	42	17	122	81	59	73	167	288	212	120	114	180	
+190532	"Waffles and wafers"	285	232	266	599	774	807	433	246	618	271	1071	733	692	468	478	552	372	311	244	177	
+070940	"Fresh or chilled celery (excl. celeriac)"	0	0	4	14	0	75	15	2	0	13	15	9	1	0	8	6	0	0	46	172	
+200290	"Tomatoes, prepared or preserved otherwise than by vinegar or acetic acid (excl. whole or in ..."	328	282	531	477	157	296	644	411	615	818	669	375	82	515	529	498	302	1163	1581	168	
+200931	"Single citrus fruit juice, unfermented, Brix value <= 20 at 20°C, whether or not containing ..."	62	3	441	62	7	0	137	0	92	0	228	12	62	17	165	71	50	45	204	165	
+240411	"Products containing tobacco or reconstituted tobacco, intended for inhalation without combustion"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	161	
+080540	"Fresh or dried grapefruit and pomelos"	16	792	1995	932	66	634	958	205	2	307	897	546	1	302	814	237	1	155	1025	159	
+200520	"Potatoes, prepared or preserved otherwise than by vinegar or acetic acid (excl. frozen)"	20	15	79	141	156	96	44	140	261	329	288	313	395	425	236	160	152	146	151	154	
+081400	"Peel of citrus fruit or melons, incl. watermelons, fresh, frozen, dried or provisionally preserved ..."	133	32	419	223	119	76	173	86	116	92	233	153	84	149	387	153	152	56	101	150	
+200911	"Frozen orange juice, unfermented, whether or not containing added sugar or other sweetening ..."	97	152	728	828	197	127	66	123	0	47	159	575	70	82	203	498	458	847	243	141	
+240120	"Tobacco, partly or wholly stemmed or stripped, otherwise unmanufactured"	0	0	0	937	0	672	0	0	0	0	0	197	92	0	0	0	0	0	0	141	
+200880	"Strawberries, prepared or preserved, whether or not containing added sugar or other sweetening ..."	476	546	499	206	323	200	66	336	197	63	182	226	169	262	255	216	207	223	160	140	
+110290	"Cereal flours (excl. wheat, meslin and maize)"	60	167	113	138	142	143	133	211	97	175	347	156	124	149	521	147	170	182	394	138	
+160558	"Snails, prepared or preserved (excl. smoked and sea snails)"	56	210	92	108	109	181	106	79	104	14	23	93	54	50	0	88	0	89	0	132	
+151090	"Other oils and their fractions "EU cat. 7 and 8", obtained solely from olives, whether or not ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	765	783	735	19	281	131	
+180620	"Chocolate and other food preparations containing cocoa, in blocks, slabs or bars weighing > ..."	0	0	0	10	0	0	0	1	7	6	15	2	4	11	25	166	150	178	267	131	
+151710	"Margarine (excl. liquid)"	601	478	592	663	423	721	954	416	560	892	1387	869	1437	1036	2200	1769	1387	2769	1018	120	
+220900	"Vinegar, fermented vinegar and substitutes for vinegar obtained from acetic acid"	118	145	254	195	65	192	250	250	179	565	380	296	142	199	315	127	82	248	372	119	
+180632	"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg (excl. ..."	38	139	309	351	155	334	357	226	154	350	566	753	233	411	386	399	24	145	49	117	
+110100	"Wheat or meslin flour"	1471	1889	2712	870	70	229	265	286	117	77	299	165	132	4	64	302	0	424	251	115	
+081090	"Fresh tamarinds, cashew apples, jackfruit, lychees, sapodillo plums, passion fruit, carambola, ..."	1322	1955	2842	1486	1554	2398	1876	819	889	1806	986	573	974	3485	156	109	998	2469	27	112	
+120991	"Vegetable seeds, for sowing"	732	578	981	409	1379	218	1009	149	935	822	1715	381	1021	1542	874	267	935	1093	1268	112	
+070190	"Fresh or chilled potatoes (excl. seed)"	3604	5666	10066	7160	5879	1379	3978	2778	3044	384	2912	1811	4757	1507	3740	4701	3929	1120	477	111	
+100610	"Rice in the husk, "paddy" or rough"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	107	108	
+170290	"Sugars in solid form, incl. invert sugar and chemically pure maltose, and sugar and sugar syrup ..."	60	65	48	38	71	37	2	70	49	11	89	15	30	1	47	0	0	0	103	108	
+510111	"Greasy shorn wool, incl. fleece-washed wool, neither carded nor combed"	993	362	455	567	550	300	312	38	96	105	159	311	297	287	229	161	203	202	169	105	
+071290	"Dried vegetables and mixtures of vegetables, whole, cut, sliced, broken or in powder, but not ..."	351	289	468	267	366	178	429	210	221	350	291	153	435	337	165	560	200	197	352	100	
+080940	"Fresh plums and sloes"	123	120	49	10	81	76	15	42	150	96	55	129	434	308	35	100	309	193	47	93	
+160554	"Cuttlefish and squid, prepared or preserved (excl. smoked)"	0	0	0	0	16	1	0	9	17	12	2	0	0	0	0	7	18	140	72	91	
+180631	"Chocolate and other preparations containing cocoa, in blocks, slabs or bars of <= 2 kg, filled"	68	84	121	39	9	289	106	6	10	12	6	172	11	0	81	27	274	2	24	88	
+080921	"Fresh sour cherries "Prunus cerasus""	11	0	0	9	0	0	0	0	0	0	0	44	0	0	1	38	0	0	0	78	
+080440	"Fresh or dried avocados"	20	10402	19194	1054	367	30833	58946	4063	164	45420	62264	1613	102	25248	70408	16051	125	62695	78073	76	
+090421	"Fruits of the genus Capsicum or of the genus Pimenta, dried, neither crushed nor ground"	5	18	0	0	0	0	245	0	7	342	114	8	265	49	12	1	1	0	0	75	
+080910	"Fresh apricots"	4	0	20	223	29	8	4	85	7	0	2	77	5	2	0	100	77	14	1	73	
+330112	"Oils of sweet and bitter orange, whether or not terpeneless, incl. concretes and absolutes ..."	0	8	1	134	0	1	21	70	9	81	0	177	51	207	64	155	161	113	65	73	
+151620	"Vegetable fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, ..."	254	683	707	423	306	404	625	373	816	65	269	19	20	11	24	11	480	5	53	72	
+140490	"Vegetable products n.e.s"	114	191	95	141	83	261	72	107	129	189	77	129	174	97	82	66	179	150	112	70	
+200979	"Apple juice, unfermented, Brix value > 20 at 20°C, whether or not containing added sugar or ..."	63	57	49	55	51	59	56	49	41	44	40	37	30	36	26	42	41	37	47	70	
+330130	"Resinoids"	52	72	153	46	128	4	0	0	114	142	0	101	173	50	37	0	29	0	0	69	
+180500	"Cocoa powder, not containing added sugar or other sweetening matter"	0	0	0	0	0	0	0	3	0	0	0	7	0	1	4	0	0	0	118	67	
+210500	"Ice cream and other edible ice, whether or not containing cocoa"	0	15	0	16	40	24	0	0	0	0	17	0	19	4	19	3	18	6	6	67	
+040900	"Natural honey"	95	64	88	73	52	60	139	51	11	35	26	26	41	52	76	41	51	54	50	66	
+200110	"Cucumbers and gherkins, prepared or preserved by vinegar or acetic acid"	27	29	14	38	18	47	56	39	45	65	29	43	58	26	52	57	35	50	43	66	
+151560	"Microbial fats and oils and their fractions, whether or not refined, but not chemically modified"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	19	78	41	64	
+040390	"Buttermilk, curdled milk and cream, kephir and other fermented or acidified milk and cream, ..."	1	1	4	6	4	3	4	207	286	190	3	10	2	5	67	50	49	58	63	61	
+160100	"Sausages and similar products, of meat, meat offal, blood or insects; food preparations based ..."	0	0	53	62	38	27	93	4	42	37	107	304	60	40	173	292	125	240	221	60	
+160559	"Molluscs, prepared or preserved (excl. smoked, oysters, scallops, mussels, cuttle fish, squid, ..."	0	0	0	4	11	10	17	9	0	11	9	68	34	35	54	75	42	12	34	60	
+190490	"Cereals (excl. maize [corn]) in grain or flake form or other worked grains, pre-cooked or otherwise ..."	0	3	0	0	0	0	0	12	55	128	179	66	60	81	106	69	64	48	19	60	
+210120	"Extracts, essences and concentrates, of tea or mate, and preparations with a basis of these ..."	0	1	14	62	45	83	97	5	9	35	57	20	67	28	197	40	48	72	85	60	
+010129	"Live horses (excl. pure-bred for breeding)"	14	10	16	12	18	28	8	0	32	20	1	38	12	28	70	35	55	76	54	59	
+060390	"Dried, dyed, bleached, impregnated or otherwise prepared cut flowers and buds, of a kind suitable ..."	31	9	5	2	52	42	29	10	33	76	17	2	150	36	24	19	144	7	38	51	
+091091	"Mixtures of different types of spices"	16	51	25	59	6	25	9	1	2	8	58	16	8	22	78	54	18	49	55	51	
+071010	"Potatoes, uncooked or cooked by steaming or by boiling in water, frozen"	0	2	475	4	6	1	10	2	1	0	384	82	54	2	226	366	113	16	72	50	
+110319	"Groats and meal of cereals (excl. wheat and maize)"	36	54	73	70	70	61	167	112	73	165	161	165	112	105	228	149	112	145	204	49	
+010121	"Pure-bred breeding horses"	0	4	14	6	11	16	17	6	2	0	10	357	1	104	3	1	41	19	41	46	
+060110	"Bulbs, tubers, tuberous roots, corms, crowns and rhizomes, dormant (excl. those used for human ..."	343	769	309	0	299	206	192	0	314	189	168	0	307	251	212	0	244	260	221	45	
+200559	"Unshelled beans "Vigna spp., Phaseolus spp.", prepared or preserved otherwise than by vinegar ..."	0	2	1	0	3	0	3	5	0	0	15	1	1	0	0	0	0	0	0	45	
+020500	"Meat of horses, asses, mules or hinnies, fresh, chilled or frozen"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	43	
+010511	"Live fowls of the species Gallus domesticus, weighing <= 185 g (excl. turkeys and guinea fowls)"	43	29	12	10	0	9	2	0	137	301	492	593	608	972	1078	1117	316	1	201	42	
+130190	"Lac; natural gums, resins, gum-resins, balsams and other natural oleoresins (excl. gum Arabic)"	14	30	65	6	1	3	13	98	6	44	20	17	10	72	252	63	558	40	7	41	
+071310	"Dried, shelled peas "Pisum sativum", whether or not skinned or split"	0	0	0	0	14	0	1	0	0	0	1	34	0	1	0	0	0	0	2	40	
+090240	"Black fermented tea and partly fermented tea, whether or not flavoured, in immediate packings ..."	312	468	38	19	11	62	1	20	0	19	36	13	40	64	54	57	1	9	4	38	
+080390	"Fresh or dried bananas (excl. plantains)"	21	34	17	22	23	16	21	25	15	15	28	52	96	84	128	50	39	54	41	36	
+160510	"Crab, prepared or preserved (excl. smoked)"	11	26	65	28	77	0	0	0	0	0	0	39	0	0	33	46	0	11	134	36	
+151190	"Palm oil and its fractions, whether or not refined (excl. chemically modified and crude)"	0	0	0	0	0	0	0	0	0	0	0	43	0	0	0	0	0	778	0	35	
+160231	"Meat or offal of turkeys "Gallus domesticus", prepared or preserved (excl. sausages and similar ..."	53	50	29	72	48	37	80	191	27	253	122	21	58	123	188	16	0	4	8	32	
+200390	"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid (excl. ..."	94	7	226	154	136	55	112	115	0	2	206	276	118	52	45	0	0	0	23	32	
+040610	"Fresh cheese "unripened or uncured cheese", incl. whey cheese, and curd"	2	5	6	8	0	0	0	26	2	0	31	68	39	33	164	55	39	38	41	31	
+210220	"Inactive yeasts; other dead single-cell micro-organisms (excl. packaged as medicaments)"	56	33	17	64	50	12	30	3	10	53	168	69	3	1	69	6	2	2	95	31	
+110429	"Grains of cereals, hulled, pearled, sliced, kibbled or otherwise worked (excl. rolled, flaked, ..."	0	0	0	0	0	0	0	9	11	0	294	148	0	3	216	0	0	161	150	30	
+080420	"Fresh or dried figs"	119	14	1	55	12	1	0	22	8	0	0	6	17	0	1	29	2	24	7	29	
+210320	"Tomato ketchup and other tomato sauces"	5	31	4	19	8	18	13	39	6	6	11	5	6	11	53	9	11	13	16	29	
+040110	"Milk and cream of a fat content by weight of <= 1%, not concentrated nor containing added sugar ..."	3	2	11	18	12	7	6	6	25	15	10	21	35	9	37	28	25	42	75	28	
+070519	"Fresh or chilled lettuce (excl. cabbage lettuce)"	0	197	542	180	1	179	179	6	1	2	104	2	0	19	142	21	1	1	217	28	
+140190	"Reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, lime bark and other vegetable ..."	0	0	5	4	21	19	18	24	20	15	19	51	24	38	30	36	13	35	37	28	
+020713	"Fresh or chilled cuts and edible offal of fowls of the species Gallus domesticus"	0	0	0	0	0	0	0	0	0	0	1	0	1	2	1	1	1	3	4	27	
+200791	"Citrus fruit jams, jellies, marmalades, purées or pastes, obtained by cooking, whether or not ..."	45	69	36	64	36	51	40	6	8	17	65	31	90	89	80	40	38	48	26	27	
+080929	"Fresh cherries (excl. sour cherries)"	1	0	0	1	4	0	0	9	0	0	0	52	1	0	1	91	2	2	0	26	
+090411	"Pepper of the genus Piper, neither crushed nor ground"	305	85	19	53	26	61	28	21	57	124	21	28	42	5	69	3	94	25	78	26	
+080450	"Fresh or dried guavas, mangoes and mangosteens"	14	20	12	6	4	10	17	160	134	8	7	1	36	23	92	4	48	74	30	25	
+091020	"Saffron"	311	39	227	31	25	79	36	6	44	56	44	93	66	41	41	63	37	14	78	25	
+220860	"Vodka"	2	4	3	2	2	2	1	0	0	0	0	0	0	1	0	1	2	3	4	24	
+200820	"Pineapples, prepared or preserved, whether or not containing added sugar or other sweetening ..."	55	10	2	28	92	11	17	16	75	24	31	43	27	19	50	33	27	10	23	23	
+240499	"Nicotine containing products intended for the intake of nicotine into the human body (excl. ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	23	
+080830	"Fresh pears"	18	44	70	74	55	53	51	23	38	34	37	30	49	61	95	35	60	93	47	22	
+200949	"Pineapple juice, unfermented, Brix value > 20 at 20°C, whether or not containing added sugar ..."	62	57	51	41	20	54	51	24	53	52	61	48	15	39	45	74	48	21	38	22	
+210230	"Prepared baking powders"	46	17	123	57	0	6	48	273	125	42	253	96	10	15	309	8	13	25	159	22	
+090220	"Green tea in immediate packings of > 3 kg"	5736	1586	298	1065	152	654	1	280	1137	106	599	11	63	95	135	180	175	40	3	21	
+020230	"Frozen, boneless meat of bovine animals"	32	0	19	86	64	43	21	0	4	17	3	1	11	13	235	33	4	13	15	20	
+060311	"Fresh cut roses and buds, of a kind suitable for bouquets or for ornamental purposes"	0	2	1	0	2	0	2	0	0	0	0	0	15	0	0	0	24	0	0	20	
+200929	"Grapefruit juice, unfermented, Brix value > 20 at 20°C, whether or not containing added sugar ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	
+080310	"Fresh or dried plantains"	0	0	0	0	0	0	0	2	0	0	1	0	0	0	0	0	0	0	26	19	
+210420	"Food preparations consisting of finely homogenised mixtures of two or more basic ingredients, ..."	9	0	59	53	0	21	0	46	38	106	0	40	0	97	22	27	17	0	0	19	
+020714	"Frozen cuts and edible offal of fowls of the species Gallus domesticus"	130	117	90	39	38	47	30	16	10	14	6	5	17	9	423	33	8	23	26	18	
+071333	"Dried, shelled kidney beans "Phaseolus vulgaris", whether or not skinned or split"	0	116	0	103	43	7	0	55	112	0	14	163	105	89	73	114	203	0	0	18	
+081050	"Fresh kiwifruit"	24	34	31	26	23	19	25	9	13	31	29	18	11	40	47	41	21	41	40	18	
+121299	"Fruit stones and kernels and other vegetable products, incl. unroasted chicory roots of the ..."	15	79	265	84	31	20	370	72	0	13	302	118	10	7	88	195	36	44	217	18	
+070959	"Fresh or chilled edible mushrooms and truffles (excl. Agaricus, Boletus, Cantharellus, shiitake, ..."	0	2335	591	125	12	305	208	125	0	169	848	255	0	19	73	289	1	50	102	17	
+070991	"Fresh or chilled globe artichokes"	1	4	7	3	2	49	188	1	0	15	37	6	0	10	23	6	0	13	21	17	
+080720	"Fresh pawpaws "papayas""	1	4	0	0	24	44	35	74	73	74	56	21	63	31	46	28	82	59	73	17	
+081340	"Dried peaches, pears, papaws "papayas", tamarinds and other edible fruits (excl. nuts, bananas, ..."	17	15	9	17	28	56	9	95	82	0	2594	596	204	7	307	353	41	17	13	17	
+220410	"Sparkling wine of fresh grapes"	22	50	20	17	15	102	8	0	0	0	1	2	6	2	0	0	23	0	5	17	
+520300	"Cotton, carded or combed"	0	0	0	0	0	0	62	0	46	35	47	0	25	75	71	32	25	85	6	17	
+170191	"Refined cane or beet sugar, containing added flavouring or colouring, in solid form"	28	8	44	42	0	8	23	69	61	29	208	71	2	17	138	2	1	3	157	16	
+070956	"Fresh or chilled truffles "Tuber spp.""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	84	12	0	0	34	15	
+160419	"Prepared or preserved fish, whole or in pieces (excl. minced, merely smoked, and salmon, herrings, ..."	0	0	0	4	115	1	30	0	0	0	0	6	0	0	0	0	0	14	0	15	
+020110	"Carcases or half-carcases of bovine animals, fresh or chilled"	0	0	0	0	0	0	0	0	0	0	0	0	0	6	17	9	2	19	26	14	
+020410	"Fresh or chilled lamb carcases and half-carcases"	0	0	0	0	0	0	0	0	0	0	1	0	39	39	34	9	200	23	29	14	
+040120	"Milk and cream of a fat content by weight of > 1% but <= 6%, not concentrated nor containing ..."	102	72	63	88	111	163	132	28	71	70	120	91	39	69	137	123	48	73	18	14	
+071420	"Sweet potatoes, fresh, chilled, frozen or dried, whether or not sliced or in the form of pellets"	1	12	1	61	133	1	0	137	135	7	11	79	151	45	322	9	297	249	209	14	
+110423	"Hulled, pearled, sliced, kibbled or otherwise worked maize grains (excl. rolled, flaked, pellets ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	14	
+080810	"Fresh apples"	24	19	14	14	19	38	23	48	96	83	61	28	98	67	34	15	71	36	28	12	
+120799	"Oil seeds and oleaginous fruits, whether or not broken (excl. edible nuts, olives, soya beans, ..."	2	33	87	1	5	8	8	2	7	164	65	0	205	0	11	0	3	17	3	12	
+160250	"Prepared or preserved meat or offal of bovine animals (excl. sausages and similar products, ..."	0	1	13	7	9	10	8	0	2	12	6	15	4	2	4	10	0	5	1	12	
+021020	"Meat of bovine animals, salted, in brine, dried or smoked"	0	6	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	11	
+070890	"Fresh or chilled leguminous vegetables, shelled or unshelled (excl. peas "Pisum sativum" and ..."	3	126	578	9	3	406	538	17	0	1107	1391	2181	218	370	854	318	6	64	810	11	
+110419	"Rolled or flaked grains of cereals (excl. oats)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	
+190120	"Mixes and doughs of flour, groats, meal, starch or malt extract, not containing cocoa or containing ..."	0	75	0	0	1	4	1	0	0	1	2	3	0	2	0	0	0	0	1	11	
+040690	"Cheese (excl. fresh cheese, incl. whey cheese, curd, processed cheese, blue-veined cheese and ..."	30	51	40	41	29	52	15	1	1	4	13	1	4	4	365	80	7	84	11	10	
+120921	"Alfalfa seed for sowing"	2	15	0	0	5	8	0	0	0	0	0	0	0	0	0	0	10	0	0	10	
+220870	"Liqueurs and cordials"	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	
+350300	"Gelatin, whether or not in square or rectangular sheets, whether or not surface-worked or coloured, ..."	0	0	41	0	0	13	0	13	0	1	14	14	45	0	26	0	0	0	0	10	
+040590	"Fats and oils derived from milk, and dehydrated butter and ghee (excl. natural butter, recombined ..."	0	2	7	10	0	2	12	0	0	2	8	6	0	2	4	18	0	1	1	9	
+080522	"Fresh or dried clementines incl. monreales"	26	162858	86859	319	65	160447	22137	2975	219	196240	21093	0	118	225561	29890	236	6	129724	21336	9	
+090111	"Coffee (excl. roasted and decaffeinated)"	0	0	41	1	0	0	68	0	0	0	0	19	0	0	9	4	11	14	15	9	
+200811	"Groundnuts, prepared or preserved (excl. preserved with sugar)"	0	0	0	5	52	0	3	12	23	14	12	2	3	7	29	0	0	0	8	9	
+220850	"Gin and Geneva"	3	4	3	2	2	1	1	0	0	0	0	0	0	2	1	2	3	3	6	9	
+020711	"Fresh or chilled fowls of the species Gallus domesticus, not cut in pieces"	0	12	0	0	0	4	2	9	3	0	2	3	1	2	6	4	1	1	10	8	
+040140	"Milk and cream of a fat content by weight of > 6% but <= 10%, not concentrated nor containing ..."	0	0	0	0	0	0	0	0	0	0	10	0	0	30	49	159	160	79	7	8	
+080590	"Fresh or dried citrus fruit (excl. oranges, lemons "Citrus limon, Citrus limonum", limes "Citrus ..."	0	1	4	0	19	62	0	0	40	15	1	0	15	27	0	5	17	0	0	8	
+180610	"Cocoa powder, sweetened"	0	1	5	34	30	6	4	1	4	1	7	10	0	6	22	1	1	21	17	8	
+200989	"Juice of fruit or vegetables, unfermented, whether or not containing added sugar or other sweetening ..."	238	194	186	8	6	5	14	8	0	0	0	13	5	5	56	147	37	49	17	8	
+080111	"Desiccated coconuts"	0	0	0	0	0	0	1	0	0	1	6	0	0	0	0	1	6	10	3	7	
+080299	"Nuts, fresh or dried, whether or not shelled or peeled (excl. coconuts, Brazil nuts, cashew ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	8	5	9	7	
+130120	"Natural gum Arabic"	0	3	6	0	4	5	5	1	5	4	13	2	9	2	16	4	6	2	18	7	
+200840	"Pears, prepared or preserved, whether or not containing added sugar or other sweetening matter ..."	0	2	0	22	0	14	0	1	3	0	0	7	20	0	0	2	5	4	2	7	
+010641	"Live bees"	0	9	19	0	0	10	19	7	0	0	20	0	0	0	5	0	1	2	2	6	
+090122	"Roasted, decaffeinated coffee"	0	41	17	29	3	3	27	30	8	4	33	16	13	5	0	16	0	3	4	6	
+090822	"Mace, crushed or ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	5	
+110320	"Cereal pellets"	0	3	2	0	0	2	1	1	3	4	3	3	7	1	5	3	0	6	0	5	
+151530	"Castor oil and fractions thereof, whether or not refined, but not chemically modified"	0	0	0	0	0	0	2	0	0	0	0	0	0	3	0	0	0	1	1	5	
+160290	"Prepared or preserved meat, offal, blood or insects (excl. meat or offal of poultry, swine ..."	0	0	4	6	0	4	3	64	0	2	2	27	0	0	41	0	0	0	2	5	
+170114	"Raw cane sugar, in solid form, not containing added flavouring or colouring matter (excl. cane ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	1	1	5	
+200950	"Tomato juice, unfermented, whether or not containing added sugar or other sweetening matter ..."	20	22	12	21	27	19	16	10	0	5	0	2	16	8	12	11	24	26	2	5	
+020120	"Fresh or chilled bovine cuts, with bone in (excl. carcases and 1/2 carcases)"	0	0	0	0	0	0	1	0	0	0	0	0	1	2	2	1	0	0	11	4	
+020319	"Fresh or chilled meat of swine (excl. carcases and half-carcases, and hams, shoulders and cuts ..."	0	0	0	0	0	0	0	0	0	0	0	0	1	3	2	5	3	2	14	4	
+020712	"Frozen fowls of the species Gallus domesticus, not cut in pieces"	7	14	0	11	0	0	0	0	0	1	1	0	0	0	0	33	0	39	115	4	
+040210	"Milk and cream in solid forms, of a fat content by weight of <= 1,5%"	824	69	117	2074	15	2	5	0	0	6	5	0	0	0	1	0	0	1	2	4	
+040299	"Milk and cream, concentrated and sweetened (excl. in solid forms)"	53	0	0	239	0	0	103	0	8	1	0	0	0	0	0	0	0	0	2	4	
+040790	"Birds' eggs, in shell, preserved or cooked"	0	21	33	0	17	1	17	1	0	1	0	0	0	0	0	0	0	1	10	4	
+050790	"Tortoiseshell, whalebone and whalebone hair, horns, antlers, hooves, nails, claws and beaks, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	
+090412	"Pepper of the genus Piper, crushed or ground"	4	5	6	0	0	1	1	0	0	12	3	11	14	8	6	2	1	0	6	4	
+100630	"Semi-milled or wholly milled rice, whether or not polished or glazed"	0	23	3	7	68	150	1	0	0	83	857	425	30	0	92	265	0	0	6	4	
+100790	"Grain sorghum (excl. for sowing)"	0	0	0	0	0	1	3	2	2	0	0	15	5	0	7	0	0	0	0	4	
+160210	"Homogenised prepared meat, offal, blood or insects, put up for retail sale as infant food or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	51	0	0	0	0	0	4	
+230690	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	193	33	308	78	104	342	37	56	62	367	116	103	58	51	59	104	35	54	478	4	
+020130	"Fresh or chilled bovine meat, boneless"	0	0	0	0	1	0	0	0	2	0	0	0	0	0	0	0	4	2	6	3	
+020321	"Frozen carcases and half-carcases of swine"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	2	0	0	0	3	3	
+020443	"Frozen boneless cuts of sheep"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	4	3	
+020890	"Fresh, chilled or frozen meat and edible offal of pigeons, game, reindeer and other animals ..."	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	5	3	
+040510	"Butter (excl. dehydrated butter and ghee)"	28	14	3	16	3	7	5	0	1	8	92	12	6	5	127	14	2	3	5	3	
+040729	"Fresh birds' eggs, in shell (excl. of domestic fowls, and fertilised for incubation)"	0	0	0	0	9	7	10	0	0	0	4	3	2	2	3	2	45	61	5	3	
+041090	"Turtles' eggs, birds' nests and other edible products of animal origin, n.e.s."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	
+070953	"Fresh or chilled mushrooms of the genus Cantharellus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	24	163	0	3	18	3	
+071220	"Dried onions, whole, cut, sliced, broken or in powder, but not further prepared"	0	0	0	0	0	1	3	0	1	1	1	1	1	1	2	1	1	1	2	3	
+080430	"Fresh or dried pineapples"	1	5	1	0	0	1	1	1	4	9	16	9	6	8	16	7	5	21	7	3	
+100829	"Millet (excl. grain sorghum, and seed for sowing)"	0	0	0	2	0	17	0	3	6	0	1	0	0	0	0	0	0	0	0	3	
+110819	"Starch (excl. wheat, maize, potato and manioc)"	0	0	0	0	0	0	0	2	0	2	0	0	0	0	2	0	0	1	0	3	
+120400	"Linseed, whether or not broken"	1	1	0	1	0	1	1	2	2	2	0	3	1	2	3	8	2	0	4	3	
+120810	"Soya bean flour and meal"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	3	
+040811	"Dried egg yolks, whether or not sweetened"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	6	2	
+070320	"Garlic, fresh or chilled"	0	12	1	41	30	0	0	0	2	6	0	0	0	0	2	2	2	25	4	2	
+071022	"Shelled or unshelled beans "Vigna spp., Phaseolus spp.", uncooked or cooked by steaming or ..."	2	28	8	9	7	9	9	17	23	15	25	7	2	2	1	1	1	2	3	2	
+080620	"Dried grapes"	47	1	14	0	1	0	1	0	26	0	1	0	2	2	1	2	1	1	2	2	
+081070	"Fresh persimmons"	0	46	35	14	22	137	365	0	11	621	59	3	9	292	71	1	8	222	65	2	
+081320	"Dried prunes"	3	339	761	40	16	227	765	265	15	233	791	241	403	910	1776	243	214	16	586	2	
+090620	"Crushed or ground cinnamon and cinnamon-tree flowers"	0	1	7	2	0	4	0	0	1	1	11	0	0	7	1	1	0	0	1	2	
+090720	"Cloves, whole fruit, cloves and stems, crushed or ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	3	0	0	0	2	
+090811	"Nutmeg, neither crushed nor ground"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	2	0	0	0	0	2	
+090931	"Cumin seeds, neither crushed nor ground"	10	6	1	1	1	2	4	8	2	1	1	3	10	1	1	0	0	0	1	2	
+090932	"Cumin seeds, crushed or ground"	0	5	6	3	0	2	13	4	0	17	10	28	20	8	6	0	1	1	3	2	
+090961	"Juniper berries and seeds of anise, badian, caraway or fennel, neither crushed nor ground"	41	6	26	15	16	4	10	6	12	191	10	307	79	4	6	4	1	0	2	2	
+151511	"Crude linseed oil"	0	0	0	0	0	0	0	0	0	0	0	25	0	0	3	0	0	2	2	2	
+170219	"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, ..."	0	4	2	5	0	0	11	1	5	7	9	0	6	0	0	6	0	8	4	2	
+200941	"Pineapple juice, unfermented, Brix value <= 20 at 20°C, whether or not containing added sugar ..."	111	41	36	0	0	0	0	0	8	0	0	0	3	0	2	2	2	1	0	2	
+010619	"Live mammals (excl. primates, whales, dolphins and porpoises, manatees and dugongs, seals, ..."	0	0	0	0	0	0	0	0	0	0	0	3	4	3	1	1	2	0	0	1	
+020329	"Frozen meat of swine (excl. carcases and half-carcases, and hams, shoulders and cuts thereof, ..."	0	0	0	0	0	0	0	0	0	7	7	2	5	48	34	0	0	0	1	1	
+020422	"Fresh or chilled cuts of sheep, with bone in (excl. carcases and half-carcases)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+020430	"Frozen lamb carcases and half-carcases"	15	31	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	
+021019	"Meat of swine, salted, in brine, dried or smoked (excl. hams, shoulders and cuts thereof, with ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	
+040721	"Fresh eggs of domestic fowls, in shell (excl. fertilised for incubation)"	0	0	0	0	0	0	25	0	0	0	0	0	1	0	346	0	0	0	1	1	
+060490	"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses ..."	46	4	61	0	21	0	0	0	0	0	2	43	12	0	4	0	1	0	3	1	
+070511	"Fresh or chilled cabbage lettuce"	2	6	3	3	3	1	8	1	1	1	2	1	1	1	1	1	0	1	63	1	
+070970	"Fresh or chilled spinach, New Zealand spinach and orache spinach"	0	1	0	0	0	3	11	7	0	34	6	9	0	1	3	0	0	12	11	1	
+071021	"Shelled or unshelled peas "Pisum sativum", uncooked or cooked by steaming or by boiling in ..."	6	2	8	3	1	6	49	0	0	0	23	0	1	1	46	5	0	2	4	1	
+080211	"Fresh or dried almonds in shell"	0	0	8	1	3	0	0	0	0	1	3	1	0	1	3	1	0	0	0	1	
+080212	"Fresh or dried almonds, shelled"	274	147	900	548	925	275	884	673	573	914	856	316	458	522	803	643	414	398	513	1	
+080262	"Fresh or dried macadamia nuts, shelled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	1	0	1	1	
+081310	"Dried apricots"	0	0	0	0	0	0	0	0	142	57	68	3	5	1	1	53	1	1	2	1	
+090812	"Nutmeg, crushed or ground"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	1	
+091011	"Ginger, neither crushed nor ground"	14	48	5	29	3	93	12	19	7	112	8	6	3	2	4	1	15	2	2	1	
+091012	"Ginger, crushed or ground"	0	1	21	0	2	2	1	1	5	9	1	27	1	14	37	4	0	0	2	1	
+091030	"Turmeric "curcuma""	106	2	4	2	3	4	69	2	22	9	1	25	7	8	15	0	5	0	2	1	
+110510	"Flour, meal and powder of potatoes"	0	0	0	119	5	7	3	0	20	7	82	10	0	51	125	1	2	25	6	1	
+151211	"Crude sunflower-seed or safflower oil"	0	0	0	0	0	1	0	0	0	3743	0	0	0	0	0	0	0	0	2	1	
+160232	"Meat or offal of fowls of the species "Gallus domesticus", prepared or preserved (excl. sausages ..."	0	38	0	0	0	0	0	0	0	0	0	0	0	0	0	85	0	0	1	1	
+160239	"Prepared or preserved meat or meat offal of ducks, geese and guinea fowl of the species domesticus ..."	0	10	0	3	3	1	0	2	0	7	0	5	0	8	0	0	0	0	2	1	
+190220	"Pasta, stuffed with meat or other substances, whether or not cooked or otherwise prepared"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	5	4	1	
+190540	"Rusks, toasted bread and similar toasted products"	0	2	0	1	4	1	0	0	0	0	6	1	7	6	24	0	0	0	0	1	
+200961	"Grape juice, incl. grape must, unfermented, Brix value <= 30 at 20°C, whether or not containing ..."	0	0	0	0	0	0	0	0	0	0	2	0	2	1	3	2	3	33	2	1	
+200971	"Apple juice, unfermented, Brix value <= 20 at 20°C, whether or not containing added sugar or ..."	2	9	13	0	0	0	2	1	7	29	0	0	3	1	2	1	0	1	1	1	
+290544	"D-glucitol "sorbitol""	0	2	0	0	0	1	0	0	0	1	0	0	0	1	0	0	0	0	0	1	
+010110	"Pure-bred breeding horses and asses"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010111	"Pure-bred breeding horses"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010119	"Live horses (excluding pure-bred for breeding)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010120	"Live asses, mules and hinnies"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010190	"Live mules and hinnies"	5	0	13	0	7	0	0	0	0	0	15	37	0	0	0	0	2	0	0	0	
+010210	"Pure-bred breeding bovines"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010290	"Live bovine animals (excl. cattle and buffalo)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010410	"Live sheep"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010420	"Live goats"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010512	"Live domestic turkeys, weighing <= 185 g"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010515	"Live domestic guinea fowls, weighing <= 185 g"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010519	"Live domestic ducks, geese and guinea fowls, weighing <= 185 g"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010592	"Live fowls of the species Gallus domesticus, weighing > 185 g but <= 2 kg"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010600	"Live animals (excluding horses, asses, mules, hinnies, bovine animals, swine, sheep, goats, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010612	"Live whales, dolphins and porpoises (mammals of the order Cetacea); manatees and dugongs (mammals ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010639	"Live birds (excl. birds of prey, psittaciformes, parrots, parrakeets, macaws, cockatoos, ostriches ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+010690	"Live animals (excl. mammals, reptiles, birds, insects, fish, crustaceans, molluscs and other ..."	39	32	151	58	0	0	31	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020210	"Frozen bovine carcases and half-carcases"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020220	"Frozen bovine cuts, with bone in (excl. carcases and half-carcases)"	10	52	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020311	"Fresh or chilled carcases and half-carcases of swine"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020312	"Fresh or chilled hams, shoulders and cuts thereof of swine, with bone in"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020322	"Frozen hams, shoulders and cuts thereof of swine, with bone in"	1	0	0	0	0	0	0	0	0	1	0	0	0	7	0	0	0	0	0	0	
+020421	"Fresh or chilled sheep carcases and half-carcases (excl. lambs)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	
+020423	"Fresh or chilled boneless cuts of sheep"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020441	"Frozen sheep carcases and half-carcases (excl. lambs)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020442	"Frozen cuts of sheep, with bone in (excl. carcases and half-carcases)"	0	0	2	0	0	1	3	0	1	1	4	2	7	2	176	4	0	0	1	0	
+020450	"Fresh, chilled or frozen meat of goats"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	
+020610	"Fresh or chilled edible offal of bovine animals"	0	0	0	0	132	0	0	0	0	0	0	0	0	0	0	0	3	0	0	0	
+020621	"Frozen edible bovine tongues"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+020622	"Frozen edible bovine livers"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+020629	"Frozen edible bovine offal (excl. tongues and livers)"	0	0	0	0	0	34	25	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020630	"Fresh or chilled edible offal of swine"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+020641	"Frozen edible livers of swine"	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	
+020649	"Edible offal of swine, frozen (excl. livers)"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	
+020690	"Frozen edible offal of sheep, goats, horses, asses, mules and hinnies"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	
+020724	"Fresh or chilled turkeys of the species domesticus, not cut in pieces"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020725	"Frozen turkeys of the species domesticus, not cut into pieces"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+020726	"Fresh or chilled cuts and edible offal of turkeys of the species domesticus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020733	"Frozen ducks, geese and guinea fowls of the species domesticus, not cut into pieces"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020734	"Fresh or chilled edible fatty livers of ducks or geese of the species domesticus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020735	"Fresh or chilled cuts and edible offal of ducks, geese or guinea fowls of the species domesticus ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020736	"Frozen cuts and edible offal of ducks, geese or guinea fowls of the species domesticus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020741	"Fresh or chilled domestic ducks, not cut in pieces"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+020745	"Frozen cuts and edible offal of domestic ducks"	0	96	44	36	49	21	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020820	"Fresh, chilled or frozen frogs' legs"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020900	"Pig fat, free of lean meat, and poultry fat, not rendered or otherwise extracted, fresh, chilled, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+020910	"Pig fat, free of lean meat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, ..."	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	
+020990	"Poultry fat, not rendered or otherwise extracted, fresh, chilled, frozen, salted, in brine, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+021011	"Hams, shoulders and cuts thereof of swine, salted, in brine, dried or smoked, with bone in"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+021012	"Bellies "streaky" and cuts thereof of swine, salted, in brine, dried or smoked"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+021090	"Meat and edible offal, salted, in brine, dried or smoked, and edible flours and meals of meat ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+021099	"Meat and edible offal, salted, in brine, dried or smoked, and edible flours and meals of meat ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040130	"Milk and cream of a fat content by weight of > 6%, not concentrated nor containing added sugar ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040221	"Milk and cream in solid forms, of a fat content by weight of > 1,5%, unsweetened"	0	0	0	0	0	0	0	0	26	0	0	0	0	0	0	0	0	0	0	0	
+040229	"Milk and cream in solid forms, of a fat content by weight of > 1,5%, sweetened"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+040291	"Milk and cream, concentrated but unsweetened (excl. in solid forms)"	0	0	0	0	0	0	0	0	0	0	120	0	0	0	0	0	0	0	8	0	
+040310	"Yogurt, whether or not flavoured or containing added sugar or other sweetening matter, fruits, ..."	787	617	485	447	540	527	618	354	311	219	518	458	447	394	11	0	0	0	0	0	
+040410	"Whey and modified whey, whether or not concentrated or containing added sugar or other sweetening ..."	0	0	0	0	0	0	25	0	42	0	0	6	0	0	0	0	0	0	113	0	
+040490	"Products consisting of natural milk constituents, whether or not sweetened, n.e.s."	4	0	351	0	3	11	75	0	367	1132	0	4	0	58	0	0	0	0	0	0	
+040520	"Dairy spreads of a fat content, by weight, of >= 39% but < 80%"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040620	"Grated or powdered cheese, of all kinds"	0	0	0	0	0	0	0	0	1	0	0	0	0	1	2	0	0	0	0	0	
+040640	"Blue-veined cheese and other cheese containing veins produced by "Penicillium roqueforti""	0	2	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040700	"Birds' eggs, in shell, fresh, preserved or cooked"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040819	"Egg yolks, fresh, cooked by steaming or boiling in water, moulded, frozen or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+040899	"Birds' eggs, not in shell, fresh, cooked by steaming or boiling in water, moulded, frozen or ..."	0	3	8	17	6	11	4	0	0	0	0	0	0	0	73	0	0	0	0	0	
+041000	"Turtles' eggs, birds' nests and other edible products of animal origin, n.e.s."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050100	"Human hair, unworked, whether or not washed or scoured; waste of human hair"	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	
+050210	"Pigs', hogs' or boars' bristles and waste of such bristles"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050290	"Badger and other brush making hair and waste thereof"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050300	"Horsehair and horsehair waste, whether or not put up as a layer, with or without supporting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050510	"Feathers used for stuffing and down, not further worked than cleaned, disinfected or treated ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050590	"Skins and other parts of birds, with their feathers or down, feathers and parts of feathers, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+050690	"Bones and horn-cores and their powder and waste, unworked, defatted, degelatinised or simply ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	80	127	0	0	0	
+050900	"Natural sponges of animal origin"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+051000	"Ambergris, castoreum, civet and musk; cantharides; bile, whether or not dried; glands and other ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+051110	"Bovine semen"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060230	"Rhododendrons and azaleas, grafted or not"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060240	"Roses, whether or not grafted"	0	0	15	0	0	0	21	0	0	27	11	0	6	7	5	0	0	0	26	0	
+060310	"Fresh cut flowers and flower buds, for bouquets or for ornamental purposes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060315	"Fresh cut lilies "Lilium spp." and buds, of a kind suitable for bouquets or for ornamental ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060410	"Mosses and lichens for bouquets or for ornamental purposes, fresh, dried, dyed, bleached, impregnated ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060420	"Foliage, branches and other parts of plants, without flowers or flower buds, and grasses, mosses ..."	0	9	0	0	30	58	10	0	0	9	0	19	24	0	58	3	11	19	14	0	
+060491	"Foliage, branches and other parts of plants, without flowers or flower buds, grasses, fresh, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+060499	"Foliage, branches and other parts of plants, without flowers or flower buds, grasses, for bouquets ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+070110	"Seed potatoes"	23	0	134	0	0	0	55	0	0	173	58	45	0	0	5	177	0	10	2	0	
+070521	"Fresh or chilled witloof chicory"	0	0	0	32	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+070910	"Fresh or chilled globe artichokes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+070951	"Fresh or chilled mushrooms of the genus "Agaricus""	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	3	3	0	
+070952	"Fresh or chilled mushrooms of the genus Boletus"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	20	10	0	16	7	0	
+070990	"Fresh or chilled vegetables (excluding potatoes, tomatoes, vegetables of the Allium spp., cabbages ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+070992	"Fresh or chilled olives"	226	193	43	264	148	121	165	6	0	0	5	7	33	2	6	19	18	0	2	0	
+071030	"Spinach, New Zealand spinach and orache spinach, uncooked or cooked by steaming or by boiling ..."	1	2	0	0	0	6	1	0	0	0	1	1	0	0	2	0	0	0	1	0	
+071040	"Sweetcorn, uncooked or cooked by steaming or by boiling in water, frozen"	51	1325	1	2941	8	105	0	0	15	8	4	1000	0	0	0	0	0	0	0	0	
+071090	"Mixtures of vegetables, uncooked or cooked by steaming or by boiling in water, frozen"	0	0	1	1	0	4	3	8	3	5	0	0	0	1	0	0	0	0	0	0	
+071110	"Onions provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+071120	"Olives, provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water or ..."	10	10	65	91	39	0	67	7	27	38	0	25	36	133	46	119	26	72	52	0	
+071130	"Capers provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+071140	"Cucumbers and gherkins provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur ..."	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	1	2	0	
+071151	"Mushrooms of the genus "Agaricus", provisionally preserved, e.g., by sulphur dioxide gas, in ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	1	0	
+071159	"Mushrooms and truffles, provisionally preserved, e.g., by sulphur dioxide gas, in brine, in ..."	0	0	0	0	0	0	0	36	0	0	0	0	0	0	0	0	0	0	0	0	
+071230	"Dried mushrooms and truffles, whole, cut, sliced, broken or in powder, but not further prepared"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+071231	"Dried mushrooms of the genus "Agaricus", whole, cut, sliced, broken or in powder, but not further ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	
+071232	"Dried wood ears "Auricularia spp.", whole, cut, sliced, broken or in powder, but not further ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+071239	"Dried mushrooms and truffles, whole, cut, sliced, broken or in powder, but not further prepared ..."	20	12	41	4	0	0	0	0	0	0	0	35	11	0	0	0	0	0	0	0	
+071320	"Dried, shelled chickpeas "garbanzos", whether or not skinned or split"	31	1	10	24	3	180	254	81	1	0	510	2247	3269	3804	1136	207	1503	2	15	0	
+071331	"Dried, shelled beans of species "Vigna mungo [L.] Hepper or Vigna radiata [L.] Wilczek", whether ..."	0	0	21	1	13	9	26	0	2	11	4	21	0	9	1	19	0	0	0	0	
+071332	"Dried, shelled small red "Adzuki" beans "Phaseolus or Vigna angularis", whether or not skinned ..."	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+071339	"Dried, shelled beans "Vigna and Phaseolus", whether or not skinned or split (excl. beans of ..."	1124	869	280	403	614	584	0	0	252	7	4	0	0	0	0	0	0	0	0	0	
+071340	"Dried, shelled lentils, whether or not skinned or split"	5	19	12	34	0	71	2	58	46	57	0	46	0	0	0	1	0	0	0	0	
+071350	"Dried, shelled broad beans "Vicia faba var. major" and horse beans "Vicia faba var. equina ..."	1757	1159	2839	125	1114	72	42	36	605	5	2	311	1498	37	16	9	178	0	4	0	
+071390	"Dried, shelled leguminous vegetables, whether or not skinned or split (excl. peas, chickpeas, ..."	0	0	0	4	1	0	0	0	0	0	0	0	0	0	0	0	0	3	3	0	
+071410	"Fresh, chilled, frozen or dried roots and tubers of manioc "cassava", whether or not sliced ..."	0	0	0	0	0	0	0	0	0	0	0	1	4	1	0	0	0	0	0	0	
+071490	"Arrowroot, salep, Jerusalem artichokes and similar roots and tubers with high starch or inulin ..."	3	23	2	55	36	1	2	0	0	2	0	0	0	0	1	0	0	1	1	0	
+080112	"Fresh coconuts in the inner shell "endocarp""	0	0	2	0	0	1	0	0	0	0	1	0	0	1	0	0	0	1	1	0	
+080119	"Fresh coconuts, whether or not shelled or peeled (excl. in the inner shell "endocarp")"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080121	"Fresh or dried brazil nuts, in shell"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080122	"Fresh or dried brazil nuts, shelled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080131	"Fresh or dried cashew nuts, in shell"	0	0	0	0	0	0	99	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080132	"Fresh or dried cashew nuts, shelled"	0	0	0	0	0	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	
+080221	"Fresh or dried hazelnuts or filberts "Corylus spp.", in shell"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080222	"Fresh or dried hazelnuts or filberts "Corylus spp.", shelled"	0	0	0	0	0	0	0	28	0	0	0	0	0	3	0	0	0	0	0	0	
+080231	"Fresh or dried walnuts, in shell"	0	0	0	0	0	0	0	0	0	42	0	0	0	0	0	0	0	0	0	0	
+080232	"Fresh or dried walnuts, shelled"	0	0	1	0	1	0	0	0	21	0	0	0	0	0	2	1	0	0	0	0	
+080240	"Fresh or dried chestnuts (Castanea spp.), whether or not shelled or peeled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080241	"Fresh or dried chestnuts "Castanea spp.", in shell"	0	0	1	0	0	1	0	0	0	0	0	0	0	2	0	0	0	0	0	0	
+080242	"Fresh or dried chestnuts "Castanea spp.", shelled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	0	0	
+080250	"Fresh or dried pistachios, whether or not shelled or peeled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080251	"Fresh or dried pistachios, in shell"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	3	3	1	1	0	
+080252	"Fresh or dried pistachios, shelled"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	10	0	
+080270	"Fresh or dried kola nuts "Cola spp.", whether or not shelled or peeled"	0	0	0	0	0	0	4	10	0	0	0	18	2	0	0	5	4	0	0	0	
+080290	"Nuts, fresh or dried, whether or not shelled or peeled (excluding coconuts, Brazil nuts, cashew ..."	44	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+080300	"Bananas, incl. plantains, fresh or dried"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080520	"Fresh or dried mandarins incl. tangerines and satsumas, clementines, wilkings and similar citrus ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080529	"Fresh or dried wilkings and similar citrus hybrids"	0	0	145	142	0	0	253	648	0	0	10	0	0	0	5	0	0	0	2	0	
+080530	"Fresh or dried lemons "Citrus limon, Citrus limonum" and limes "Citrus aurantifolia""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080820	"Fresh pears and quinces"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+080840	"Fresh quinces"	5	0	0	0	0	8	0	0	1	0	0	0	1	0	1	0	0	2	0	0	
+080920	"Fresh cherries"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+081030	"Fresh black-, white- or redcurrants and gooseberries"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	
+081210	"Cherries, provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water ..."	0	0	0	11	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+081220	"Strawberries, provisionally preserved, e.g. by sulphur dioxide gas, in brine, in sulphur water ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+081330	"Dried apples"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2	1	0	0	0	
+081350	"Mixtures of nuts or dried fruits"	0	7	0	0	0	10	15	37	56	44	66	32	0	0	0	0	0	1	2	0	
+090112	"Decaffeinated coffee (excl. roasted)"	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090190	"Coffee husks and skins; coffee substitutes containing coffee in any proportion"	1	1	2	0	27	1	1	27	4	0	2	1	3	0	4	0	1	1	5	0	
+090300	"Mate"	95	182	59	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090420	"Fruits of the genus Capsicum or of the genus Pimenta, dried or crushed or ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090500	"Vanilla"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090510	"Vanilla, neither crushed nor ground"	91	432	0	394	83	0	0	0	0	0	931	89	0	0	0	0	0	0	0	0	
+090520	"Vanilla, crushed or ground"	151	42	0	298	0	0	215	0	66	0	0	0	0	0	0	0	0	0	0	0	
+090610	"Cinnamon and cinnamon-tree flowers (excluding crushed and ground)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090611	"Cinnamon "Cinnamomum zeylanicum Blume" (excl. crushed and ground)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090619	"Cinnamon and cinnamon-tree flowers (excl. cinnamon "Cinnamomum zeylanicum Blume" and crushed ..."	1	1	1	0	1	0	0	4	11	0	0	0	0	0	1	0	0	0	0	0	
+090700	"Cloves, whole fruit, cloves and stems"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090710	"Cloves, whole fruit, cloves and stems, neither crushed nor ground"	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	
+090810	"Nutmeg"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090820	"Mace"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090821	"Mace, neither crushed nor ground"	0	0	0	0	0	0	0	0	0	0	0	0	1	1	1	0	0	0	0	0	
+090830	"Cardamoms"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090831	"Cardamoms, neither crushed nor ground"	0	0	1	0	0	0	0	0	2	0	46	0	0	0	3	0	0	0	0	0	
+090832	"Cardamoms, crushed or ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090910	"Seeds of anise or badian"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090920	"Coriander seeds"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090930	"Cumin seeds"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090940	"Caraway seeds"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090950	"Seeds of fennel; juniper berries"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+090962	"Juniper berries and seeds of anise, badian, caraway or fennel, crushed or ground"	0	0	0	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	
+091010	"Ginger"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+091040	"Thyme and bay leaves"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+091050	"Curry"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100110	"Durum wheat"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100111	"Durum wheat seed for sowing"	0	0	0	51	0	0	0	11	0	0	0	0	0	0	0	0	0	118	0	0	
+100119	"Durum wheat (excl. seed for sowing)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100190	"Wheat and meslin (excluding durum wheat)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100191	"Seed of wheat and meslin, for sowing (excl. durum)"	1	0	0	0	1	0	0	0	0	0	0	54	0	0	0	0	0	0	0	0	
+100199	"Wheat and meslin (excl. seed for sowing, and durum wheat)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100300	"Barley"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100310	"Barley seed for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100390	"Barley (excl. seed for sowing)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	
+100400	"Oats"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100510	"Maize seed for sowing"	0	86	62	0	0	0	0	0	0	0	7	0	0	9	0	0	20	50	0	0	
+100590	"Maize (excl. seed for sowing)"	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100620	"Husked or brown rice"	0	0	1	0	0	0	0	0	1	287	364	772	0	0	21	0	0	0	0	0	
+100640	"Broken rice"	0	0	0	0	1	0	0	1	0	0	0	9	0	0	0	0	0	0	0	0	
+100700	"Grain sorghum"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100710	"Grain sorghum, for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100810	"Buckwheat"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100820	"Millet (excluding grain sorghum)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100830	"Canary seed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100850	"Quinoa "Chenopodium quinoa""	0	2	0	0	0	0	0	0	0	23	0	0	0	0	4	0	0	0	0	0	
+100860	"Triticale"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+100890	"Cereals (excl. wheat and meslin, rye, barley, oats, maize, rice, grain sorghum, buckwheat, ..."	0	0	0	2	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110210	"Rye flour"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110220	"Maize "corn" flour"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110230	"Rice flour"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110313	"Groats and meal of maize "corn""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110411	"Rolled or flaked grains of barley"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110412	"Rolled or flaked grains of oats"	0	0	0	0	31	0	0	0	0	4	0	1	0	0	9	3	0	12	22	0	
+110421	"Hulled, pearled, sliced, kibbled or otherwise worked grains of barley (excluding barley flour)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110422	"Hulled, pearled, sliced, kibbled or otherwise worked oat grains (excl. rolled, flaked, pellets ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110430	"Germ of cereals, whole, rolled, flaked or ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110520	"Flakes, granules and pellets of potatoes"	0	0	0	0	0	3	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110610	"Flour, meal and powder of peas, beans, lentils and the other dried leguminous vegetables of ..."	0	0	0	0	0	1	0	0	0	0	20	9	0	10	0	0	0	0	0	0	
+110620	"Flour, meal and powder of sago or of roots or tubers of manioc, arrowroot, salep, sweet potatoes ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110630	"Flour, meal and powder of produce of chapter 8 "Edible fruit and nuts; peel of citrus fruits ..."	0	0	0	0	0	0	0	0	0	1	0	12	0	0	0	0	0	0	110	0	
+110710	"Malt (excl. roasted)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110720	"Roasted malt"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110811	"Wheat starch"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+110813	"Potato starch"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110814	"Manioc starch"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110820	"Inulin"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+110900	"Wheat gluten, whether or not dried"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120100	"Soya beans, whether or not broken"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120190	"Soya beans, whether or not broken (excl. seed for sowing)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+120210	"Groundnuts in shell, not roasted or otherwise cooked"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120220	"Shelled groundnuts, whether or not broken (excluding roasted or otherwise cooked)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120241	"Groundnuts, in shell (excl. seed for sowing, roasted or otherwise cooked)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120242	"Groundnuts, shelled, whether or not broken (excl. seed for sowing, roasted or otherwise cooked)"	0	0	0	0	93	72	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120500	"Rape or colza seeds, whether or not broken"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120510	"Low erucic acid rape or colza seeds "yielding a fixed oil which has an erucic acid content ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120590	"High erucic rape or colza seeds "yielding a fixed oil which has an erucic acid content of >= ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120600	"Sunflower seeds, whether or not broken"	116	166	33	28	0	0	0	0	0	0	0	0	0	0	0	1	0	66	0	0	
+120710	"Palm nuts and kernels"	0	0	0	1	0	2	0	1	0	0	0	3	0	0	3	0	0	0	0	0	
+120729	"Cotton seeds (excl. for sowing)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120740	"Sesamum seeds, whether or not broken"	0	0	0	0	0	19	0	0	0	6	0	59	0	1	5	0	0	4	6	0	
+120750	"Mustard seeds, whether or not broken"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120760	"Safflower "Carthamus tinctorius" seeds"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120770	"Melon seeds"	246	59	112	9	363	60	163	13	188	352	94	13	317	143	36	0	217	25	194	0	
+120791	"Poppy seeds, whether or not broken"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120890	"Flours and meal of oil seeds or oleaginous fruit (excl. soya and mustard)"	0	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	1	0	0	
+120910	"Sugar beet seed, for sowing"	0	0	0	0	0	0	9	0	0	0	1905	587	0	0	0	0	0	0	0	0	
+120911	"Sugar beet seed, for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120919	"Beet seed for sowing (excluding sugar beet)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120922	"Clover "Trifolium spp" seed, for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120923	"Fescue seed for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120924	"Kentucky blue grass "Poa pratensis L." seed for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120925	"Ryegrass "Lolium multiflorum lam., Lolium perenne L." seed, for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120929	"Seeds of forage plants for sowing (excl. of cereals and of sugar beet, alfalfa, clover "Trifolium ..."	0	34	0	0	26	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+120930	"Seeds of herbaceous plants cultivated mainly for flowers, for sowing"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	0	0	1	0	0	
+120999	"Seeds, fruits and spores, for sowing (excl. leguminous vegetables and sweetcorn, coffee, tea, ..."	0	12	72	19	22	202	16	0	13	36	28	2	0	0	82	0	42	6	39	0	
+121010	"Hop cones, fresh or dried (excl. ground, powdered or in the form of pellets)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121020	"Hop cones, ground, powdered or in the form of pellets; lupulin"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121110	"Liquorice roots, fresh or dried, whether or not cut, crushed or powdered"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121120	"Ginseng roots, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered"	0	0	0	0	6	0	2	0	0	0	0	0	0	0	0	1	0	0	0	0	
+121130	"Coca leaf, fresh, chilled, frozen or dried, whether or not cut, crushed or powdered"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121210	"Locust beans, incl. locust bean seed, fresh, chilled, frozen or dried, whether or not ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121220	"Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121221	"Seaweeds and other algae, fresh, chilled, frozen or dried, whether or not ground, fit for human ..."	0	4	1	4	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121230	"Apricot, peach "incl. nectarine" or plum stones and kernels"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+121293	"Sugar cane, fresh, chilled, frozen or dried, whether or not ground"	0	0	0	0	0	0	0	0	0	3	0	0	0	0	0	0	0	0	0	0	
+121300	"Cereal straw and husks, unprepared, whether or not chopped, ground, pressed or in the form ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	
+121410	"Alfalfa meal and pellets"	0	0	0	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	
+121490	"Swedes, mangolds, fodder roots, hay, lucerne "alfalfa", clover, sainfoin, forage kale, lupines, ..."	0	1	0	0	0	15	0	1	0	0	2	0	0	0	0	0	0	0	0	0	
+130110	"Natural lac"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+130211	"Opium"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+130212	"Extracts of liquorice (excl. that with a sucrose content by weight of > 10% or in the form ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+130213	"Extracts of hops"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+130220	"Pectic substances, pectinates and pectates"	0	5	0	0	0	0	1	0	0	0	0	0	0	0	0	11	0	51	6	0	
+130239	"Mucilages and thickeners derived from vegetable products, whether or not modified (excl. from ..."	1	0	0	2	4	0	1	5	0	0	2	0	1	1	0	0	2	3	0	0	
+140110	"Bamboos"	1	0	2	1	1	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+140120	"Rattans"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140200	"Vegetable materials of a kind used primarily as stuffing or as padding, e.g. kapok, vegetable ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140210	"Kapok, whether or not put up as a layer, with or without supporting material"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140290	"Vegetable hair, eel-grass and other vegetable materials of a kind used primarily as stuffing ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140300	"Vegetable materials, such as broom-corn, piassava, couch-grass and istle, of a kind used primarily ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140410	"Raw vegetable materials primarily for dyeing or tanning, n.e.s."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+140420	"Cotton linters"	0	0	7	0	0	7	1	14	15	0	0	0	0	0	0	0	0	0	0	0	
+150100	"Pig fat, incl. lard, and poultry fat, rendered or otherwise extracted (excluding lard stearin ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150190	"Poultry fat, rendered or otherwise extracted"	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150200	"Fats of bovine animals, sheep or goats (excluding lard stearin, lard oil, oleostearin, oleooil ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150300	"Lard stearin, lard oil, oleostearin, oleo-oil and tallow oil (excl. emulsified, mixed or otherwise ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150410	"Fish-liver oils and their fractions, whether or not refined (excl. chemically modified)"	1133	348	693	0	62	164	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150500	"Wool grease and fatty substances derived therefrom, incl. lanolin"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150510	"Crude wool grease"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150590	"Wool grease and fatty substances derived therefrom incl. lanolin (excluding crude)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150600	"Other animal fats and oils and their fractions, whether or not refined, but not chemically ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150710	"Crude soya-bean oil, whether or not degummed"	0	0	0	0	0	0	0	0	0	0	0	799	0	0	765	0	0	0	0	0	
+150810	"Crude groundnut oil"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+150890	"Groundnut oil and its fractions, whether or not refined (excl. chemically modified and crude)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+150910	"Virgin olive oil and its fractions obtained from the fruit of the olive tree solely by mechanical ..."	14776	10596	20863	20261	11405	6767	4877	9856	11746	9020	9958	15223	8382	4080	182	0	0	0	0	0	
+151000	"Other oils and their fractions, obtained solely from olives, whether or not refined, but not ..."	5565	8904	4140	4078	2324	2158	592	708	503	5763	671	4702	5855	15507	0	0	0	0	0	0	
+151010	"Crude olive pomace oil "EU cat. 6", obtained solely from olives, untreated"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	17473	5521	4885	96	1948	0	
+151110	"Crude palm oil"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151229	"Cotton-seed oil and its fractions, whether or not refined, but not chemically modified (excl. ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151311	"Crude coconut oil"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151319	"Coconut oil and its fractions, whether or not refined, but not chemically modified (excl. crude)"	0	0	0	0	0	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	
+151321	"Crude palm kernel and babassu oil"	0	0	0	0	511	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151329	"Palm kernel and babassu oil and their fractions, whether or not refined, but not chemically ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151410	"Crude rape, colza or mustard oil"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151411	"Low erucic acid rape or colza oil "fixed oil which has an erucic acid content of < 2%", crude"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151419	"Low erucic acid rape or colza oil "fixed oil which has an erucic acid content of < 2%" and ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151490	"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151499	"High erucic acid rape or colza oil "fixed oil which has an erucic acid content of >= 2%", and ..."	0	0	0	0	0	0	0	0	0	0	34	0	0	0	0	0	0	0	0	0	
+151519	"Linseed oil and fractions thereof, whether or not refined, but not chemically modified (excl. ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	3	0	
+151521	"Crude maize oil"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151529	"Maize oil and fractions thereof, whether or not refined, but not chemically modified (excl. ..."	0	498	3693	3865	0	3232	3543	0	0	0	0	0	0	0	0	0	0	1	1	0	
+151540	"Tung oil and its fractions, whether or not refined, but not chemically modified"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+151550	"Sesame oil and its fractions, whether or not refined, but not chemically modified"	0	0	0	0	0	0	1	0	0	0	1	0	1	400	0	0	0	1	1	0	
+151610	"Animal fats and oils and their fractions, partly or wholly hydrogenated, inter-esterified, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+152000	"Glycerol, crude; glycerol waters and glycerol lyes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+152110	"Vegetable waxes, whether or not refined or coloured (excl. triglycerides)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	
+152190	"Beeswax, other insect waxes and spermaceti, whether or not refined or coloured"	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	0	
+152200	"Degras; residues resulting from the treatment of fatty substances or animal or vegetable waxes"	0	0	0	0	0	0	0	0	0	0	1	0	4	7	0	0	0	0	0	0	
+160220	"Preparations of liver of any animal (excl. sausages and similar products and finely homogenised ..."	17	8	0	11	7	0	0	0	0	12	0	0	0	22	0	0	0	0	0	0	
+160241	"Hams of swine and cuts thereof, prepared or preserved"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160242	"Prepared or preserved shoulders and cuts thereof, of swine"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160249	"Prepared or preserved meat and offal of swine, incl. mixtures (excl. hams, shoulders and cuts ..."	0	93	0	0	0	0	0	0	0	0	0	1	0	4	0	58	21	65	55	0	
+160300	"Extracts and juices of meat, fish or crustaceans, molluscs and other aquatic invertebrates"	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	0	0	0	0	
+160411	"Prepared or preserved salmon, whole or in pieces (excl. minced)"	0	0	0	0	0	24	10	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160412	"Prepared or preserved herrings, whole or in pieces (excl. minced)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160430	"Caviar and caviar substitutes prepared from fish eggs"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160432	"Caviar substitutes prepared from fish eggs"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160520	"Shrimps and prawns, prepared or preserved"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160530	"Lobster, prepared or preserved (excl. smoked)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160540	"Crustaceans, prepared or preserved (excl. smoked, crabs, shrimps, prawns and lobster)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160552	"Scallops, incl. queen scallops, prepared or preserved (excl. smoked)"	0	0	0	0	0	0	0	0	14	0	0	0	0	0	0	0	0	0	0	0	
+160553	"Mussels, prepared or preserved (excl. smoked)"	0	0	0	0	5	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+160555	"Octopus, prepared or preserved (excl. smoked)"	0	0	0	0	24	33	0	14	33	44	0	63	0	47	0	0	0	0	0	0	
+160569	"Aquatic invertebrates, prepared or preserved (excl. smoked, crustaceans, molluscs, sea cucumbers, ..."	309	250	215	82	372	625	430	229	0	490	639	0	344	313	286	0	73	1184	0	0	
+160590	"Molluscs and aquatic invertebrates, prepared or preserved"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170111	"Raw cane sugar (excluding added flavouring or colouring)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170112	"Raw beet sugar (excl. added flavouring or colouring)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170113	"Raw cane sugar, in solid form, not containing added flavouring or colouring matter, obtained ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170211	"Lactose in solid form and lactose syrup, not containing added flavouring or colouring matter, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170220	"Maple sugar, in solid form, and maple syrup (excl. flavoured or coloured)"	0	0	1	11	0	0	0	0	0	0	0	0	0	0	2	3	1	0	1	0	
+170230	"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter ..."	0	5	10	0	13	0	0	1	12	3	0	1	14	0	0	0	0	0	5	0	
+170240	"Glucose in solid form and glucose syrup, not containing added flavouring or colouring matter, ..."	2	0	3	0	0	0	0	0	0	0	0	1	2	0	1	0	0	14	0	0	
+170250	"Chemically pure fructose in solid form"	0	0	0	0	0	0	0	0	5	0	0	0	0	0	0	0	0	0	0	0	
+170260	"Fructose in solid form and fructose syrup, not containing added flavouring or colouring matter ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+170390	"Beet molasses resulting from the extraction or refining of sugar"	2453	1651	1378	2896	1863	393	860	2525	434	2096	877	2078	2805	0	0	0	0	0	0	0	
+180100	"Cocoa beans, whole or broken, raw or roasted"	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	
+180200	"Cocoa shells, husks, skins and other cocoa waste"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+180310	"Cocoa paste (excl. defatted)"	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+180320	"Cocoa paste, wholly or partly defatted"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+180400	"Cocoa butter, fat and oil"	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	2	0	
+190110	"Food preparations for infant use, put up for retail sale, of flour, groats, meal, starch or ..."	853	541	494	14	20	69	3	0	0	1	1	0	1547	1426	1808	0	0	0	0	0	
+190190	"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing ..."	30	48	15	24	75	62	60	76	0	3	66	3	1	23	5	1	0	0	1	0	
+190211	"Uncooked pasta, not stuffed or otherwise prepared, containing eggs"	0	0	1	0	0	0	1	19	31	49	50	48	34	30	12	0	0	0	10	0	
+190300	"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, ..."	0	0	0	0	0	0	0	0	0	0	0	89	0	0	0	0	0	0	0	0	
+190420	"Prepared foods obtained from unroasted cereal flakes or from mixtures of unroasted cereal flakes ..."	0	0	249	0	0	22	72	11	10	55	0	48	0	0	21	2	0	0	0	0	
+190430	"Bulgur wheat in the form of worked grains, obtained by cooking hard wheat grains"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	7	1	0	0	9	0	
+190510	"Crispbread"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+190520	"Gingerbread and the like, whether or not containing cocoa"	1	8	15	45	31	10	5	2	22	13	0	0	0	0	0	5	0	0	0	0	
+190530	"Sweet biscuits, waffles and wafers, whether or not containing cocoa (excluding with water content ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200120	"Onions, prepared or preserved by vinegar or acetic acid"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200310	"Mushrooms of the genus "Agaricus", prepared or preserved otherwise than by vinegar or acetic ..."	16	20	108	1	0	26	1	0	0	0	14	11	7	3	13	0	0	14	3	0	
+200320	"Truffles, prepared or preserved otherwise than by vinegar or acetic acid"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200410	"Potatoes, prepared or preserved otherwise than by vinegar or acetic acid, frozen"	0	0	0	1	67	1	23	0	3	0	0	43	3	0	2	0	0	0	1	0	
+200510	"Homogenised vegetables put up for retail sale as infant food or for dietetic purposes, in containers ..."	0	0	0	0	0	0	0	0	0	0	68	0	0	0	0	0	0	0	0	0	
+200540	"Peas "Pisum Sativum", prepared or preserved otherwise than by vinegar or acetic acid (excl. ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	20	2	0	0	0	0	0	
+200551	"Shelled beans "Vigna spp., Phaseolus spp.", prepared or preserved otherwise than by vinegar ..."	0	0	0	0	0	0	0	0	0	0	6	0	7	0	0	0	0	0	0	0	
+200560	"Asparagus, prepared or preserved otherwise than by vinegar or acetic acid (excl. frozen)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200580	"Sweetcorn "Zea Mays var. Saccharata", prepared or preserved otherwise than by vinegar or acetic ..."	0	7	0	22	14	1	0	19	0	0	0	117	74	13	3	0	0	2	0	0	
+200590	"Vegetables and mixtures of vegetables, prepared or preserved otherwise than by vinegar, non-frozen ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200591	"Bamboo shoots, prepared or preserved otherwise than by vinegar or acetic acid (excl. frozen)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200600	"Vegetables, fruit, nuts, fruit-peel and other edible parts of plants, preserved by sugar "drained, ..."	5	1	3	2	4	5	11	9	8	14	0	0	1	7	0	23	0	5	0	0	
+200710	"Homogenised preparations of jams, jellies, marmalades, fruit or nut purées and nut pastes, ..."	0	0	0	3	7	4	2	0	0	5	13	3	0	2	3	2	0	1	1	0	
+200860	"Cherries, prepared or preserved, whether or not containing added sugar or other sweetening ..."	0	0	44	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200870	"Peaches, incl. nectarines, prepared or preserved, whether or not containing added sugar or ..."	7	17	80	14	57	0	0	0	3	0	0	0	0	0	0	0	0	0	0	0	
+200891	"Palm hearts, prepared or preserved, whether or not containing added sugar or other sweetening ..."	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200892	"Mixtures of fruits, nuts and other edible parts of plants, prepared or preserved, whether or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200893	"Cranberries "Vaccinium macrocarpon, Vaccinium oxycoccos" and lingonberries "Vaccinium vitis-idaea", ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200920	"Grapefruit juice, unfermented, whether or not containing added sugar or other sweetening matter ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200921	"Grapefruit juice, unfermented, Brix value <= 20 at 20°C, whether or not containing added sugar ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	22	0	
+200930	"Juice of citrus fruit, unfermented, whether or not containing added sugar or other sweetening ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200940	"Pineapple juice, unfermented, whether or not containing added sugar or other sweetening matter ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200960	"Grape juice, incl. grape must, unfermented, whether or not containing added sugar or other ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200969	"Grape juice, incl. grape must, unfermented, Brix value > 30 at 20°C, whether or not containing ..."	28	72	42	106	24	61	30	25	18	24	13	4	0	0	0	0	0	0	0	0	
+200970	"Apple juice, unfermented, whether or not containing added sugar or other sweetening matter ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200980	"Juice of fruit or vegetables, unfermented, whether or not containing added sugar or other sweetening ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+200981	"Cranberry or lingonberry "Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea" ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+210130	"Roasted chicory and other roasted coffee substitutes, and extracts, essences and concentrates ..."	0	0	0	0	0	2	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+210310	"Soya sauce"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	21	0	0	0	0	0	
+210610	"Protein concentrates and textured protein substances"	0	0	0	0	0	0	0	0	0	29	0	0	0	0	0	0	0	0	0	0	
+220190	"Ordinary natural water, not containing added sugar, other sweetening matter or flavoured; ice ..."	6	0	0	0	5	0	4	0	4	0	0	0	0	0	0	0	0	0	0	0	
+220290	"Non-alcoholic beverages (excluding water, fruit or vegetable juices and milk)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220291	"Non-alcoholic beer <= 0.5% vol alc"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220430	"Grape must, of an actual alcoholic strength of > 0,5% vol (excl. grape must whose fermentation ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220510	"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers ..."	20	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220590	"Vermouth and other wine of fresh grapes, flavoured with plants or aromatic substances, in containers ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220600	"Cider, perry, mead, saké and other fermented beverages and mixtures of fermented beverages ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220710	"Undenatured ethyl alcohol, of actual alcoholic strength of >= 80%"	975	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	2410	0	0	
+220720	"Denatured ethyl alcohol and other spirits of any strength"	32	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220820	"Spirits obtained by distilling grape wine or grape marc"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+220840	"Rum and other spirits obtained by distilling fermented sugar-cane products"	1	2	1	1	2	11	1	0	0	0	0	0	0	1	0	3	2	2	2	0	
+230110	"Flours, meals and pellets, of meat or offal, unfit for human consumption; greaves"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230210	"Bran, sharps and other residues of maize "corn", whether or not in the form of pellets, derived ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230220	"Bran, sharps and other residues of rice, whether or not in the form of pellets, derived from ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230230	"Bran, sharps and other residues of wheat, whether or not in the form of pellets, derived from ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230240	"Bran, sharps and other residues of cereals, whether or not in the form of pellets, derived ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230310	"Residues of starch manufacture and similar residues"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230320	"Beet-pulp, bagasse and other waste of sugar manufacture"	0	7	0	0	0	0	0	0	7	0	0	0	0	0	0	0	0	0	0	0	
+230330	"Brewing or distilling dregs and waste"	0	7	0	0	9	0	0	18	0	0	0	0	0	0	0	0	0	0	0	0	
+230400	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	84	109	0	0	0	0	0	0	0	7	0	26	25	1	0	90	293	0	0	
+230630	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	24	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230640	"Oil-cake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230641	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230649	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230650	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230660	"Oilcake and other solid residues, whether or not ground or in the form of pellets, resulting ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230700	"Wine lees; argol"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230800	"Acorns, horse-chestnuts, marc and other vegetable materials and vegetable waste, vegetable ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	5	1	0	0	0	
+230810	"Acorns and horse-chestnuts for animal feeding, whether or not in the form of pellets"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230890	"Maize stalks, maize leaves, marc and other vegetable materials, waste, residues and by-products ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+230910	"Dog or cat food, put up for retail sale"	33	0	0	2	0	0	0	0	28	69	0	20	0	7	0	0	0	0	0	0	
+240110	"Tobacco, unstemmed or unstripped"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+240130	"Tobacco refuse"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+240310	"Smoking tobacco, whether or not containing tobacco substitutes in any proportion"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+240391	"Tobacco, "homogenised" or "reconstituted" from finely-chopped tobacco leaves, tobacco refuse ..."	6977	3382	4711	4127	57	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+240491	"Nicotine containing products intended for the intake of nicotine into the human body, for oral ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	9	0	
+290543	"Mannitol"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330111	"Oils of bergamot, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330113	"Oils of lemon, whether or not terpeneless, incl. concretes and absolutes"	0	0	1	0	6	0	0	0	0	0	0	24	0	0	0	0	0	0	0	0	
+330114	"Oils of lime, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330121	"Oils of geranium, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330122	"Oils of jasmin, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330123	"Oils of lavender or of lavandin, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+330124	"Oils of peppermint "Mentha piperita", whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	1	0	1	5	0	0	0	0	0	0	
+330125	"Oils of mints, whether or not terpeneless, incl. concretes and absolutes (excl. those of peppermint ..."	135	125	95	37	167	27	32	68	109	113	14	30	93	81	26	23	47	22	58	0	
+330126	"Oils of vetiver, whether or not terpeneless, incl. concretes and absolutes"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350110	"Casein"	0	7	0	5	5	5	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350190	"Caseinates and other casein derivatives; casein glues (excl. those put up for retail sale as ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350211	"Egg albumin, dried "e.g. in sheets, scales, flakes, powder""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350219	"Egg albumin (excl. dried [e.g. in sheets, scales, flakes, powder])"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350220	"Milk albumin "lactalbumin", incl. concentrates of two or more whey proteins containing by weight ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350290	"Albumins, albuminates and other albumin derivatives (excl. egg albumin and milk albumin [incl. ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+350400	"Peptones and their derivatives; other protein substances and their derivatives, n.e.s.; hide ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	6	0	0	0	
+350510	"Dextrins and other modified starches, e.g. pregelatinised or esterified starches"	94	152	118	129	120	111	0	0	121	25	36	115	54	53	142	57	54	133	0	0	
+350520	"Glues based on starches, dextrins or other modified starches (excl. those put up for retail ..."	0	0	1	0	0	1	0	17	0	0	0	20	0	0	0	0	0	0	0	0	
+380910	"Finishing agents, dye carriers to accelerate the dyeing or fixing of dyestuffs and other products ..."	0	1	1	0	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	0	
+410110	"Whole raw bovine hides and skins, weighing <= 8 kg when dried, <= 10 kg when dry-salted and ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410120	"Whole raw hides and skins of bovine "incl. buffalo" or equine animals, whether or not dehaired, ..."	0	0	0	0	0	0	0	0	19	0	0	0	0	10	7	14	0	21	0	0	
+410122	"Raw butts and bends of bovine animals, fresh or wet-salted, whether or not dehaired or split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410130	"Raw hides and skins of bovine animals, dry-salted, limed, pickled or otherwise preserved, whether ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410140	"Raw hides and skins of equine animals, fresh or salted, dried, limed, pickled or otherwise ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410150	"Whole raw hides and skins of bovine "incl. buffalo" or equine animals, whether or not dehaired ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410190	"Butts, bends, bellies and split raw hides and skins of bovine "incl. buffalo" or equine animals, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410210	"Raw skins of sheep or lambs, with wool on, fresh or salted, dried, limed, pickled or otherwise ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410221	"Raw skins of sheep or lambs, without wool on, pickled, whether or not split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	11	0	0	
+410229	"Raw skins of sheep or lambs, without wool on, fresh or salted, dried, limed or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410310	"Raw hides and skins of goats or kids, fresh or salted, dried, limed, pickled or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410330	"Raw hides and skins of swine, fresh, or salted, dried, limed, pickled or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410390	"Raw hides and skins, fresh, or salted, dried, limed, pickled or otherwise preserved, whether ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+430110	"Raw furskins of mink, whole, with or without heads, tails or paws"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+430120	"Raw furskins of rabbit or hare, with or without heads, tails or paws"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+430160	"Raw furskins of fox, with or without heads, tails or paws"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+430180	"Raw furskins, whole, with or without heads, tails or paws (excl. those of mink, lamb - Astrachan, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+500200	"Raw silk "non-thrown""	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+500390	"Silk waste, incl. cocoons unsuitable for reeling, yarn waste and garnetted stock, carded or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510119	"Greasy wool, incl. fleece-washed wool, neither carded nor combed (excl. shorn wool)"	791	702	212	418	163	50	0	0	13	0	26	21	42	12	20	43	0	0	0	0	
+510121	"Shorn wool, degreased, non-carbonised, neither carded nor combed"	0	0	0	50	0	0	40	11	7	7	8	0	24	27	18	67	0	0	0	0	
+510129	"Degreased wool, non-carbonised, neither carded nor combed (excl. shorn wool)"	0	0	10	0	0	14	12	20	22	0	0	0	0	2	32	0	0	0	0	0	
+510130	"Carbonised wool, neither carded nor combed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510210	"Fine animal hair, neither carded nor combed (excluding wool)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510211	"Hair of Kashmir "cashmere" goats, neither carded nor combed"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510219	"Fine animal hair, neither carded nor combed (excl. wool and hair of Kashmir "cashmere" goats)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510310	"Noils of wool or of fine animal hair (excl. garnetted stock)"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510320	"Waste of wool or of fine animal hair, incl. yarn waste (excl. noils and garnetted stock)"	3	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+510330	"Waste of coarse animal hair, incl. yarn waste (excl. garnetted stock, waste of hair or bristles ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+520100	"Cotton, neither carded nor combed"	0	10	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	461	0	
+520210	"Cotton yarn waste, incl. thread waste"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+520291	"Garnetted stock of cotton"	0	0	0	0	0	0	0	0	7	0	0	0	0	98	0	0	0	40	0	0	
+520299	"Cotton waste (excl. yarn waste, thread waste and garnetted stock)"	6	33	47	36	7	14	9	55	23	16	19	7	2	0	13	15	1	1	0	0	
+530110	"Flax, raw or retted"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+530121	"Flax, broken or scutched"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+530129	"Flax, hackled or otherwise processed, but not spun (excl. broken, scutched and retted flax)"	0	0	0	0	0	0	0	0	0	0	8	0	0	0	0	0	0	0	0	0	
+530130	"Flax tow and waste, incl. yarn waste and garnetted stock"	0	0	0	0	0	0	0	0	0	0	0	0	0	4	0	0	0	0	0	0	
+530210	"True hemp "Cannabis sativa L.", raw or retted"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+530290	"True hemp "Cannabis sativa L.", processed but not spun; tow and waste of hemp, incl. yarn waste ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	

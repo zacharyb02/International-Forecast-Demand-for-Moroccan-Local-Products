@@ -1,0 +1,5 @@
+﻿Code	Product label	Exported value in 2013-Q4	Exported value in 2014-Q1	Exported value in 2014-Q2	Exported value in 2014-Q3	Exported value in 2014-Q4	Exported value in 2015-Q1	Exported value in 2015-Q2	Exported value in 2015-Q3	Exported value in 2015-Q4	Exported value in 2016-Q1	Exported value in 2016-Q2	Exported value in 2016-Q3	Exported value in 2016-Q4	Exported value in 2017-Q1	Exported value in 2017-Q2	Exported value in 2017-Q3	Exported value in 2017-Q4	Exported value in 2018-Q1	Exported value in 2018-Q2	Exported value in 2018-Q3	
+TOTAL	"All products"	5829601	5946164	6570874	5554216	5619868	5743628	5815379	5055121	5582839	5939203	5953833	5007057	5943890	6385469	6245454	5893626	7082305	7747827	7714978	6423747	
+	"Cotton"	0		15		1		0	0	0		1	0	0	1	0	0	0	1	1	0	
+520100	"Cotton, neither carded nor combed"	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1	1	0	
+520300	"Cotton, carded or combed"	0	0	15	0	1	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	

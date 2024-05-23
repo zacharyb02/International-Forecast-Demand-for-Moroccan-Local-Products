@@ -1,0 +1,82 @@
+﻿Code	Product label	Exported value in 2009-Q1	Exported value in 2009-Q2	Exported value in 2009-Q3	Exported value in 2009-Q4	Exported value in 2010-Q1	Exported value in 2010-Q2	Exported value in 2010-Q3	Exported value in 2010-Q4	Exported value in 2011-Q1	Exported value in 2011-Q2	Exported value in 2011-Q3	Exported value in 2011-Q4	Exported value in 2012-Q1	Exported value in 2012-Q2	Exported value in 2012-Q3	Exported value in 2012-Q4	Exported value in 2013-Q1	Exported value in 2013-Q2	Exported value in 2013-Q3	Exported value in 2013-Q4	
+TOTAL	"All products"	3284411	3675937	3487704	3636582	4122130	4466764	4203912	5125119	5308813	5827898	5356163	5317724	5656267	5445465	5081369	5462491	5378117	5740812	5229691	5829601	
+	"Leather"	102650	111189	121155	81631	114967	98918	103387	103675	121998	122969	111371	93097	111250	88860	91050	87648	106280	97778	103454	101370	
+640399	"Footwear with outer soles of rubber, plastics or composition leather, with uppers of leather ..."	46407	33226	42032	30372	55186	32402	27101	36796	51356	36423	26837	29854	43102	22250	21720	26776	41117	26552	24832	28275	
+640610	"Uppers and parts thereof (excl. stiffeners and general parts made of asbestos)"	15057	21185	19323	11791	16409	17487	14687	16199	18089	23384	21088	18227	16973	17341	13426	14559	16134	21533	16248	19575	
+640391	"Footwear with outer soles of rubber, plastics or composition leather, with uppers of leather, ..."	3111	13633	21499	4874	2271	11573	20126	6972	3941	14821	21799	4373	3261	8009	15256	3812	4355	7546	16584	6276	
+420221	"Handbags, whether or not with shoulder straps, incl. those without handles, with outer surface ..."	3283	3294	3219	2801	4418	3376	3781	3381	4078	3674	3953	3096	4403	4071	4568	3884	5188	4894	3875	5022	
+640359	"Footwear with outer soles and uppers of leather (excl. covering the ankle, incorporating a ..."	6553	4183	2938	3887	6014	4279	2680	4611	6470	4502	3022	4824	6863	4118	2902	3892	4726	4121	3755	4738	
+640510	"Footwear with uppers of leather or composition leather (excl. with outer soles of rubber, plastics, ..."	1907	6272	4469	5301	5008	3545	8472	9444	7327	9294	8460	7055	7545	5071	5703	6795	5806	5935	4699	4503	
+420330	"Belts and bandoliers, of leather or composition leather"	4326	4680	4344	3453	3321	4106	3718	4884	3609	4117	2996	4005	3215	3191	2323	3784	2222	1913	1626	3438	
+640299	"Footwear with outer soles and uppers of rubber or plastics (excl. covering the ankle or with ..."	1274	1483	433	859	1999	682	315	960	2942	1565	183	1554	5135	844	229	2221	5440	986	1036	2977	
+640590	"Footwear with outer soles of rubber or plastics, with uppers other than rubber, plastics, leather ..."	4636	2729	3321	3314	3493	2576	3723	2378	4754	2630	2167	719	1076	1364	2255	1619	2525	1680	2293	2589	
+640291	"Footwear covering the ankle, with outer soles and uppers of rubber or plastics (excl. waterproof ..."	35	2277	2505	624	35	2307	3059	828	495	2632	4512	1452	76	2839	4002	501	90	3932	7143	2496	
+420310	"Articles of apparel, of leather or composition leather (excl. clothing accessories, footware ..."	1489	2054	4139	2865	2390	2620	3231	2942	2288	2176	3743	3150	2498	5247	4838	2650	1739	1786	5375	2383	
+640699	"Parts of footwear (excluding outer soles and heels of rubber or plastics, uppers and parts ..."	2371	4519	1421	882	1056	1481	1451	1674	2059	2141	1501	999	848	1162	1281	1654	1761	1287	1691	2364	
+640192	"Waterproof footwear covering the ankle, but not the knee, with outer soles and uppers of rubber ..."	1673	2217	1737	2025	1746	1614	1171	1625	1758	2328	1841	2037	2556	2078	1517	2105	2121	2489	1812	2057	
+640520	"Footwear with uppers of textile materials (excl. with outer soles of rubber, plastics, leather ..."	904	588	948	693	723	1204	876	964	855	1256	815	639	467	621	613	859	1071	1158	1070	1578	
+420100	"Saddlery and harness for any animal, incl. traces, leads, knee pads, muzzles, saddle cloths, ..."	567	686	498	807	776	724	801	1252	1165	1356	852	1040	1112	1169	906	1309	1431	1560	1235	1444	
+640419	"Footwear with outer soles of rubber or plastics and uppers of textile materials (excl. sports ..."	1826	1185	968	148	1724	1979	723	1	1941	1972	1468	1930	3410	2329	1682	2173	2818	2046	1346	1386	
+410221	"Raw skins of sheep or lambs, without wool on, pickled, whether or not split"	0	0	121	0	32	0	39	52	0	0	0	0	0	0	0	0	99	381	2031	1361	
+420329	"Gloves, mittens and mitts, of leather or composition leather (excl. special sports gloves)"	686	495	483	642	708	767	481	616	770	1158	877	1169	1235	1029	582	896	1120	1237	902	1230	
+640620	"Outer soles and heels, of rubber or plastics"	670	322	390	601	689	520	349	1033	940	1091	672	1318	1081	994	2196	2324	1453	1016	409	977	
+420500	"Articles of leather or composition leather (excl. saddlery and harness bags; cases and similar ..."	717	655	1408	1912	1141	958	1077	1648	547	631	363	355	796	608	621	742	914	1196	802	890	
+420231	"Wallets, purses, key-pouches, cigarette-cases, tobacco-pouches and similar articles carried ..."	619	1303	762	434	977	960	788	940	685	542	362	470	499	486	546	648	714	1030	891	835	
+420211	"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar containers, ..."	560	526	632	730	998	704	503	933	976	999	796	681	558	664	601	867	661	832	709	774	
+420229	"Handbags, whether or not with shoulder strap, incl. those without handle, with outer surface ..."	134	397	207	508	780	657	538	445	608	288	243	290	842	282	246	110	294	155	777	772	
+640212	"Ski-boots, cross-country ski footwear and snowboard boots, with outer soles and uppers of rubber ..."	0	0	0	225	0	512	821	1109	1246	994	908	920	582	576	857	610	2	354	332	610	
+420299	"Travelling-bags, shopping or tool bags, jewellery boxes, cutlery cases and similar, with outer ..."	350	210	186	278	123	62	84	82	92	83	105	63	126	119	131	193	305	311	322	397	
+640340	"Footwear, incorporating a protective metal toecap, with outer soles of rubber, plastics, leather ..."	212	143	196	194	196	264	129	261	262	363	222	511	305	150	83	145	203	346	147	354	
+420292	"Travelling-bags, insulated food or beverage bags, toilet bags, rucksacks, shopping-bags, map-cases, ..."	13	100	31	65	102	62	370	151	124	196	42	73	417	206	185	337	278	323	191	328	
+640351	"Footwear with outer soles and uppers of leather, covering the ankle (excl. incorporating a ..."	153	2	130	7	36	85	284	41	81	13	95	128	263	159	291	207	204	59	373	308	
+420291	"Travelling-bags, insulated food or beverage bags, toilet bags, rucksacks, shopping-bags, map-cases, ..."	6	40	11	44	93	82	39	75	700	394	63	106	181	82	154	91	202	124	77	271	
+640199	"Waterproof footwear covering neither the ankle nor the knee, with outer soles and uppers of ..."	24	40	61	45	75	57	76	19	115	208	294	328	225	279	136	234	53	40	85	268	
+640191	"Waterproof footwear covering the knee, with outer soles and uppers of rubber or of plastics, ..."	150	209	78	104	173	141	49	124	153	175	89	91	247	200	147	137	229	290	173	264	
+640411	"Sports footwear, incl. tennis shoes, basketball shoes, gym shoes, training shoes and the like, ..."	1766	1077	1740	358	1056	447	1012	170	476	258	87	117	89	81	95	86	93	78	106	126	
+420222	"Handbags, whether or not with shoulder straps, incl. those without handles, with outer surface ..."	284	508	326	185	114	119	249	148	113	189	156	491	486	567	197	320	268	221	77	120	
+640420	"Footwear with outer soles of leather or composition leather and uppers of textile materials ..."	86	129	253	105	410	114	158	238	96	248	182	196	163	166	113	150	134	89	154	102	
+420212	"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar containers, ..."	41	104	55	133	76	94	119	232	452	438	131	237	201	189	284	198	118	36	71	70	
+420219	"Trunks, suitcases, vanity cases, executive-cases, briefcases, school satchels and similar containers ..."	31	24	44	30	57	33	5	71	167	49	34	66	58	38	95	29	105	32	46	52	
+420232	"Wallets, purses, key-pouches, cigarette-cases, tobacco-pouches and similar articles carried ..."	8	79	24	51	7	20	50	39	59	158	113	151	139	115	82	113	75	68	46	47	
+640230	"Footwear, incorporating a protective metal toecap, with outer soles and uppers of rubber or ..."	0	0	0	12	0	0	1	0	0	4	0	0	0	0	0	4	1	0	1	30	
+640319	"Sports footwear, with outer soles of rubber, plastics, leather or composition leather and uppers ..."	534	88	82	80	373	57	52	132	52	51	117	76	73	47	66	55	85	77	65	29	
+640320	"Footwear with outer soles of leather, and uppers which consist of leather straps across the ..."	102	331	1	9	71	86	18	33	26	79	49	40	33	0	36	439	4	4	2	27	
+420239	"Wallets, purses, key-cases, cigarette-cases, tobacco-pouches and similar articles of a kind ..."	39	90	44	92	73	127	98	67	61	5	15	203	40	7	6	16	27	12	43	15	
+420400	"Articles for technical use, of leather or composition leather"	0	0	1	0	0	0	0	25	0	0	0	2	6	2	0	0	0	0	0	5	
+640220	"Footwear with outer soles and uppers of rubber or plastics, with upper straps or thongs assembled ..."	10	34	16	18	4	0	19	21	8	48	30	21	18	40	9	14	2	0	1	5	
+420321	"Specially designed gloves for use in sport, of leather or composition leather"	0	0	0	0	0	0	0	23	0	2	1	0	0	0	0	0	0	0	0	1	
+420340	"Clothing accessories of leather or composition leather (excl. gloves, mittens and mitts, belts, ..."	20	69	79	72	25	6	60	4	26	24	72	26	9	45	8	53	64	47	1	1	
+410110	"Whole raw bovine hides and skins, weighing <= 8 kg when dried, <= 10 kg when dry-salted and ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410122	"Raw butts and bends of bovine animals, fresh or wet-salted, whether or not dehaired or split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410130	"Raw hides and skins of bovine animals, dry-salted, limed, pickled or otherwise preserved, whether ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410140	"Raw hides and skins of equine animals, fresh or salted, dried, limed, pickled or otherwise ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410210	"Raw skins of sheep or lambs, with wool on, fresh or salted, dried, limed, pickled or otherwise ..."	0	0	0	0	0	0	0	12	23	0	0	0	0	0	0	1	0	0	0	0	
+410229	"Raw skins of sheep or lambs, without wool on, fresh or salted, dried, limed or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410310	"Raw hides and skins of goats or kids, fresh or salted, dried, limed, pickled or otherwise preserved, ..."	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	
+410390	"Raw hides and skins, fresh, or salted, dried, limed, pickled or otherwise preserved, whether ..."	2	0	0	0	0	0	0	0	0	0	0	0	0	13	0	24	27	1	0	0	
+410410	"Leather of whole hides of bovine animals, with a surface area of <= 2,6 mý, dehaired (excluding ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410421	"Bovine leather, dehaired, vegetable pre-tanned only, whether or not split (excluding leather ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410422	"Bovine leather, dehaired, mineral or synthetic pre-tanned only, whether or not split (excluding ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410429	"Bovine and equine leather, dehaired, tanned or pretanned only, whether or not split (excluding ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410431	"Full grains and full grain splits of bovine and equine animals, dehaired, prepared after tanning"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410439	"Bovine and equine leather, dehaired, prepared after tanning, incl. parchment-dressed (excluding ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410511	"Sheep or lambskin leather, vegetable pre-tanned only, whether or not split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410512	"Sheep or lambskin leather, without wool on, mineral or synthetic pre-tanned only, whether or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410519	"Sheep or lambskin leather, without wool on, tanned only, whether or not split (excluding pre-tanned ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410520	"Sheep or lambskin leather, without wool on, prepared after tanning, incl. parchment-dressed ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410611	"Goat or kidskin leather, dehaired, vegetable pre-tanned only, whether or not split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410612	"Goat or kidskin leather, dehaired, mineral or synthetic pre-tanned only, whether or not split"	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410619	"Goat or kidskin leather, dehaired, tanned only, whether or not split (excluding pre-tanned ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410620	"Goat or kidskin leather, dehaired, prepared after tanning or parchment-dressed (excluding chamois ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410710	"Leather of swine, dehaired (excluding chamois leather, patent leather, patent laminated leather ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410729	"Leather of reptiles (excluding vegetable pre-tanned only, plus chamois leather, patent leather, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410790	"Leather of antelopes, deer, elks, elephants and other animals, incl. sea animals, dehaired, ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410800	"Chamois leather, incl. combination chamois leather (excluding glac‚-tanned leather subsequently ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+410900	"Patent leather and patent laminated leather; metallized leather (excluding lacquered or metallized ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+411000	"Parings and other waste of leather, parchment-dressed leather or composition leather, not suitable ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+411100	"Composition leather based on leather or leather fibre, in slabs, sheets or strip, whether or ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+640110	"Waterproof footwear incorporating a protective metal toecap, with outer soles and uppers of ..."	1	1	0	0	9	8	3	8	12	10	9	10	17	12	62	12	2	0	0	0	
+640219	"Sports footwear with outer soles and uppers of rubber or plastics (excl. waterproof footwear ..."	0	0	0	0	0	0	0	0	0	0	6	4	21	0	0	0	0	1	0	0	
+640312	"Ski-boots, cross-country ski footwear and snowboard boots, with outer soles of rubber, plastics, ..."	12	2	0	0	0	21	0	11	0	0	0	0	0	0	0	0	0	0	0	0	
+640330	"Footwear with leather uppers, made on a base or platform of wood, with neither an inner sole ..."	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	
+640691	"Parts of footwear, of wood"	1	0	0	1	0	0	1	1	1	0	0	0	0	0	0	0	0	0	0	0	
